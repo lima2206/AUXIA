@@ -1,0 +1,6 @@
+[submodule "auxia-backend"]
+	path = auxia-backend
+	url = https://github.com/BuzzTech-API/auxia-backend.git
+[submodule "auxia-frontend"]
+	path = auxia-frontend
+	url = https://github.com/BuzzTech-API/auxia-frontend.git
