@@ -2,11 +2,9 @@
 # DomRock AI - Auxia
 
 <p align="center">
-      <img src="Documentação/Img/Logo/logo-BuzzTech.png" alt="logo da Buzz Tech" width="200">
+      <img src="Documentação/Img/logo-BuzzTech.png" alt="logo da Buzz Tech" width="200">
       <h2 align="center"> Buzz Tech</h2>
 </p>
-
-<hr>
 
 <p align="center">
   <a href ="#desafio"> Desafio </a>  |   
