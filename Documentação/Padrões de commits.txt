@@ -36,3 +36,4 @@ Os commits devem seguir o padrão **"Pradão de Commits – por Renato Adorno"**
 - **👌 :ok_hand:** – Alterações de revisão de código
 - **♻️ :recycle:** – Refatoração
 - **🚚 :truck:** – Mover/Renomear
+
