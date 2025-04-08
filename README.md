@@ -7,13 +7,81 @@
 </p>
 
 <p align="center">
-  <a href ="#desafio"> Desafio </a>  |   
-  <a href ="#metodologia"> Metodologia </a>  |
-  <a href ="#mvp"> MVP </a>  |
-  <a href ="#sprint"> Sprints </a>  |
-  <a href ="#backlog"> Backlog do Produto </a>  | 
-  <a href ="#equipe"> Equipe </a> |
+  | <a href ="#desafio"> Desafio</a>  |   
+  <a href ="#backlog"> Backlog do Produto</a>  |
+  <a href ="#dor">DoR</a>  |
+  <a href ="#dod">DoD</a>  |
+  <a href ="#sprint"> Cronograma de Sprints</a>  |
+  <a href ="#tecnologias">Tecnologias</a> |
+  <a href ="#manual">Manual de Instalação</a>  | 
+  <a href ="#equipe"> Equipe</a> |
 </p>
+
+
+> Status do Projeto: Em andamento 🛠️
+
+## 🏅 Desafio <a id="desafio"></a>
+
+O desafio consiste em criar uma aplicação web de avaliação de respostas de LLM. A aplicação deve permitir enviar um prompt para 2 (dois) LLMs via API simultaneamente. A seguir, a aplicação deve apresentar as 2 (duas) respostas obtidas. Para cada resposta, a aplicação apresenta os itens de avaliação das respostas e, ao final, a aplicação apresenta uma escala de comparação das duas respostas para que o usuário possa definir qual das duas respostas foi a melhor e justificar. Todas essas informações devem ser gravadas em um banco de dados que servirá para futuros retreinamentos dos LLMs.
+
+## 📋 Backlog do Produto <a id="backlog"></a>
+
+|Rank|Prioridade|User Story|Story Points|Sprint|Requisito do Cliente|Status|
+|:---:|:---------:|---------|:------------:|:----:|:---------------------:|:----:|
+| 1  | Alta | Como usuário, quero uma interface para inserir um prompt, para que eu possa enviá-lo às LLMs e obter suas respostas | 14 | 1 | R02 | ✅ |
+| 2  | Alta | Como usuário, eu quero enviar um prompt para dois modelos de IA simultaneamente, para que eu possa avaliar suas respostas posteriormente. | 47 | 1 | R01/R09 | ✅ |
+| 3  | Alta |Como usuário, eu quero visualizar as respostas das LLMs de forma clara e acessível, para que eu possa analisá-las em critérios. | 28 | 1 | R03 | ✅ |
+| 4  | Alta | Como usuário, eu quero uma interface para poder avaliar cada resposta individualmente através de critérios definidos, para que eu possa analisar a qualidade das respostas geradas | 22 | 1 | R03 | ✅ |
+| 5  | Alta | Como usuário, eu quero uma interface para poder escolher a melhor resposta entre as duas geradas pelas LLMs, para que o sistema registre minha decisão e justificativa. | 29 | 1 | R04 | ✅ |
+| 6  | Alta | Como Administrador, eu quero que as avaliações dos usuários sobre as LLMs sejam armazenadas em um BD, para que possam ser utilizadas em processos de fine-tunning futuramente. | 41 | 1 | R05 | ✅ |
+| 7  | Alta | Como usuário, eu quero ser alertado caso minha escolha entre LLM1 e LLM2 não esteja coerente com minha avaliação, para que eu possa revisar minha decisão antes de finalizar. | 3 | 2 |R04 | 🛠️ |
+| 8  | Alta | Como usuário, eu quero que as respostas das LLMs sejam enriquecidas com informações relevantes da base de dados (vetorizada), para que sejam mais precisas| 5 | 2 | R07 | 🛠️ |
+| 9  | Alta | Como usuário, eu quero que a LLM utilize apenas o contexto recuperado para responder ao meu prompt, para que a resposta seja mais precisa e baseada em informações verificadas. | N/D | 2 | R07 | 🗑️ |
+| 10 | Alta | Como Administrador, eu gostaria de ser o primeiro usuário do sistema, já devidamente pré inserido no banco de dados, para que possa acessar a aplicação. | 44 | 1 | R06 | ✅ |
+| 11 | Média | Como Administrador, eu quero cadastrar novos usuários na plataforma, para que somente pessoas autorizadas possam acessá-la. | N/D | 3 | R06 | - |
+| 12 | Média | Como usuário, eu quero acessar a aplicação através de uma interface de login, para que somente usuários autorizados possam utilizar o sistema. | N/D | 3 | R06 | - |
+| 13 | Média | Como usuário autorizado, eu quero acessar o sistema através de um login, para utilizar a aplicação. | N/D | 3 | R06 | - |
+| 14 | Média | Como usuário autenticado, eu quero poder fazer o logout da aplicação de forma segura, para que meus dados não fiquem acessíveis a terceiros. | N/D | 3 | R06 | - |
+| 15 | Média | Como usuário, eu quero poder revisar minha escolha antes de submetê-la, para que eu tenha certeza de que minha decisão está correta. | 2 | 2 | R04 | 🛠️ |
+| 16 | Média | Como Administrador, eu quero visualizar a lista de usuários cadastrados, para que eu possa gerenciar quem tem acesso ao sistema. | N/D | 3 | R06 | - |
+| 17 | Média | Como Administrador, eu quero redefinir a senha de um usuário, para que eu possa ajudá-lo caso ele não consiga acessar a conta. | N/D | 3 | R06 | - |
+| 18 | Média | Como Administrador, eu quero excluir usuários do sistema, para que possa revogar o acesso de usuários a aplicação. | N/D | 3 | R06 | - |
+| 19 | Baixa | Como usuário, eu quero ser informado com mensagens de erro caso ocorra demora excessiva no envio do prompt ou na resposta das LLMs, ou outros erros, para que eu possa entender o problema e tentar novamente. | 2 | 2 | R03 | 🛠️ |
+| 20 | Baixa | Como usuário, eu quero ser informado com mensagens de erro caso haja falha na obtenção das respostas, para que eu possa entender o problema e tentar novamente. | N/D | 2 | R03  | 🗑️ |
+| 21 | Baixa | Como usuário, eu quero poder receber mensagens claras sobre o status das avaliações, para ter certeza de que minha avaliação foi registrada corretamente. | 2 | 2 | R03 | 🛠️ |
+| 22 | Baixa | Como usuário, eu quero poder voltar para telas anteriores durante o processo de avaliação, para que eu possa corrigir informações antes de enviar a decisão final. | 1 | 2 | R03/R04 | 🛠️ |
+| 23 | Baixa | Como usuário, eu não quero perder meu progresso de avaliação ao voltar para telas anteriores, para que eu possa visualizar o que escolhi e verificar se errei em alguma avaliação. | N/D | 2 | R03/R04 | 🗑️ |
+| 24 | Baixa | Como usuário, eu quero editar meus dados pessoais, para que eu possa manter minhas informações atualizadas. | N/D | 3 | R06 | - |
+
+
+## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
+
+- User Stories com **Critérios de Aceitação**
+- Subtarefas divididas **a partir das US**
+- Design no **Figma**
+- Modelagem do **Banco de Dados**
+- Diagrama de **Rotas**
+- Banco de Dados **Vetorizado** do Cliente
+
+## 🏆 DoD - Definition of Done <a id="dod"></a>
+
+- Manual de Usuário
+- Manual da Aplicação
+- Documentação da API (Application Programming Interface)
+- Código completo
+- Vídeos de cada etapa de entrega
+
+
+## 📅 Cronograma de Sprints <a id="sprint"></a>
+
+|Sprint|Período| Documentação | Link do Vídeo|
+|------|:-----:|--------------|--------------|
+|🔖 **SPRINT 1**|10/03 - 30/03|[Sprint 1 Docs]()|[Sprint 1 Video]()|
+|🔖 **SPRINT 2**|07/04 - 27/04|[Sprint 2 Docs]()|[Sprint 2 Video]()|
+|🔖 **SPRINT 3**|05/05 - 25/05|[Sprint 2 Docs]()|[Sprint 3 Video]()|
+
+
+## 💻 Tecnologias <a id="tecnologias"></a>
 
 <h4 align="center">
  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
@@ -24,48 +92,78 @@
  <a href="https://miro.com/"><img src="https://img.shields.io/badge/Miro-1A1A1A?style=for-the-badge&logo=miro&logoColor=white"/></a>
 </h4>
 
-> Status do Projeto: Em andamento
+## 📖 Manual de Instalação <a id="manual"></a>
+	
+### 🛠 Pré-requisitos
 
-## :medal_sports: Desafio <a id="desafio"></a>
+- Git ([Download](https://git-scm.com/downloads))
 
-O desafio consiste em criar uma aplicação web de avaliação de respostas de LLM. A aplicação deve permitir enviar um prompt para 2 (dois) LLMs via API simultaneamente. A seguir, a aplicação deve apresentar as 2 (duas) respostas obtidas. Para cada resposta, a aplicação apresenta os itens de avaliação das respostas e, ao final, a aplicação apresenta uma escala de comparação das duas respostas para que o usuário possa definir qual das duas respostas foi a melhor e justificar. Todas essas informações devem ser gravadas em um banco de dados que servirá para futuros retreinamentos dos LLMs.
+- Python 3.9+ ([Download](https://www.python.org/downloads/))
 
-## 🚀 MVP <a id="mvp"></a>
+- Node.js 16+ ([Download](https://nodejs.org/en/download))
 
-Criar o primeiro entregável de valor ao Cliente, consistindo em uma aplicação Local que tenha em sua lógica a técnica do RLHF.
+- Poetry (opcional para o backend) ([Download](https://python-poetry.org/))
 
-## 📅 Sprints <a id="sprint"></a>
+---
+	
+### 1. Clonar o Repositório Principal
 
-🔖 **SPRINT 1:** Concluído! ✅
+```bash 
+git clone --recurse-submodules https://github.com/BuzzTech-API/API_ADS_6SEMESTE_2025.1.git 
+cd API_ADS_6SEMESTE_2025.1
+```
 
-🔖 **SPRINT 2:** 27/04
+> **Observação:** Se já tiver clonado sem os submódulos, execute:
+```
+git submodule update --init --recursive
+```
 
-🔖 **SPRINT 3:** 25/05
+---
 
-## :books: Metodologia <a id="metodologia"></a>
+### 2. Configuração do Backend (auxia-backend)
 
-O framework de Metodologia Ágil utilizado foi o Scrum, que possui os seguintes princípios norteadores:
+**1° Adicione as variáveis no .env**
 
-1. Controle empírico
-2. Auto-organização
-3. Colaboração
-4. Priorização da criação de valor
-5. Time-boxing
-6. Desenvolvimento iterativo
+**2° Instale e Inicie a aplicação:**
 
-O projeto foi dividido em Sprints, onde priorizamos tarefas que trouxessem maior valor ao cliente. Utilizamos a construção de Personas para guiar nossas Histórias de Usuários e o Planning Poker para definir o tempo necessário para cada tarefa.
+**Opção A: Com Poetry**
+```bash
+cd ./auxia-backend
+poetry shell
+poetry install
+make run
+```
 
-## 📋 Backlog do Produto <a id="backlog"></a>
+**Opção B: Com Ambiente Virtual Python**
+```bash
+cd ./auxia-backend
+python3 -m venv venv
+source venv/bin/activate # se você usa linux
+venv/Scripts/activate 	 # se você usa windows
+pip install -r requirements.txt
+fastapi dev ./auxia/main.py
+```
 
-- **Inserção de Prompt**: Como usuário, quero uma interface para inserir um prompt, para que eu possa enviá-lo às LLMs e obter suas respostas.
-- **Envio para Múltiplos Modelos**: Como usuário, eu quero enviar um prompt para dois modelos de IA simultaneamente, para que eu possa avaliar suas respostas posteriormente.
-- **Avaliação Individual**: Como usuário, eu quero uma interface para poder avaliar cada resposta individualmente através de critérios definidos, para que eu possa analisar a qualidade das respostas geradas.
-- **Escolha da Melhor Resposta**: Como usuário, eu quero uma interface para poder escolher a melhor resposta entre as duas geradas pelas LLMs, para que o sistema registre minha decisão e justificativa.
-- **Visualização Clara das Respostas**: Como usuário, eu quero visualizar as respostas das LLMs de forma clara e acessível, para que eu possa analisá-las em critérios.
-- **Armazenamento das Avaliações**: Como Administrador, eu quero que as avaliações dos usuários sobre as LLMs sejam armazenadas em um BD, para que possam ser utilizadas em processos de fine-tuning futuramente.
-- **Usuário Inicial Pré-Definido**: Como Administrador, eu gostaria de ser o primeiro usuário do sistema, já devidamente pré-inserido no banco de dados, para que possa acessar a aplicação.
+**Saída Esperada:**
+<br>
+Servidor rodando em `http://localhost:8000` (acesse `http://localhost:8000/docs` para a UI do Swagger).
 
-## :mortar_board: Equipe <a id="equipe"></a>
+---
+
+### 3. Configuração do Frontend (auxia-frontend)
+
+```bash
+cd ../auxia-frontend/auxia
+npm install
+npm run dev
+```
+
+**Saída Esperada:**
+<br>
+Frontend rodando em `http://localhost:5173`.
+
+
+## 🎓 Equipe <a id="equipe"></a>
 
 <div align="center">
   <table>
@@ -76,16 +174,16 @@ O projeto foi dividido em Sprints, onde priorizamos tarefas que trouxessem maior
       <th>Linkedin</th>
     </tr>
     <tr>
-      <td>Ivan Duarte</td>
+      <td>Ivan Duarte<img><img/></td>
       <td>Product Owner</td>
       <td><a href="https://github.com/Ivan-Duarte"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
       <td><a href="https://www.linkedin.com/in/ivan-duarte-982532217"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
-      <td>Nilber Siqueira</td>
+      <td>Vitor Lima</td>
       <td>Scrum Master</td>
-      <td><a href="https://github.com/NilberSiqueira"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href="https://www.linkedin.com/in/nilber-siqueira-b3404a176"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+      <td><a href="https://github.com/lima2206"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/vitor-spricigo-lima-84a377184"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
       <td>Isaque da Silva</td>
@@ -110,12 +208,6 @@ O projeto foi dividido em Sprints, onde priorizamos tarefas que trouxessem maior
       <td>Desenvolvedor</td>
       <td><a href="https://github.com/PedrohDavi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
       <td><a href="https://www.linkedin.com/in/pedro-davi-jobs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
-    </tr>
-    <tr>
-      <td>Vitor Lima</td>
-      <td>Desenvolvedor</td>
-      <td><a href="https://github.com/lima2206"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href="https://www.linkedin.com/in/vitor-spricigo-lima-84a377184"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
       <td>Rafael Motta</td>
