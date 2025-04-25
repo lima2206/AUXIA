@@ -1,9 +1,9 @@
-# API 5º Semestre ADS
+# API 6º Semestre ADS
 
 # DomRock AI - Auxia
 
 <p align="center">
-      <img src="Documentação/Img/logo-BuzzTech.png" alt="logo da Buzz Tech" width="200">
+      <img src="docs/Img/logo-BuzzTech.png" alt="logo da Buzz Tech" width="200">
       <h2 align="center"> Buzz Tech</h2>
 </p>
 
@@ -78,11 +78,11 @@ O AUXIA - Auxiliary AI Training, permitirá que os usuários enviem prompts para
 
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
 
-| Sprint          |    Período    | Documentação      | Link do Vídeo      |
-| --------------- | :-----------: | ----------------- | ------------------ |
-| 🔖 **SPRINT 1** | 10/03 - 30/03 | [Sprint 1 Docs]() | [Sprint 1 Video]() |
-| 🔖 **SPRINT 2** | 07/04 - 27/04 | [Sprint 2 Docs]() | [Sprint 2 Video]() |
-| 🔖 **SPRINT 3** | 05/05 - 25/05 | [Sprint 2 Docs]() | [Sprint 3 Video]() |
+| Sprint          |    Período    | Documentação                                     |
+| --------------- | :-----------: | ------------------------------------------------ |
+| 🔖 **SPRINT 1** | 10/03 - 30/03 | [Sprint 1 Docs](docs\sprints\sprint-1\README.md) |
+| 🔖 **SPRINT 2** | 07/04 - 27/04 | [Sprint 2 Docs](docs\sprints\sprint-2\README.md) |
+| 🔖 **SPRINT 3** | 05/05 - 25/05 | [Sprint 2 Docs](docs\sprints\sprint-3\README.md) |
 
 ## 💻 Tecnologias <a id="tecnologias"></a>
 
@@ -183,7 +183,7 @@ Frontend rodando em `http://localhost:5173`.
       <th>Linkedin</th>
     </tr>
     <tr>
-      <td>Ivan Duarte<img><img/></td>
+      <td>Ivan Duarte</td>
       <td>Product Owner</td>
       <td><a href="https://github.com/Ivan-Duarte"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
       <td><a href="https://www.linkedin.com/in/ivan-duarte-982532217"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
@@ -196,7 +196,7 @@ Frontend rodando em `http://localhost:5173`.
     </tr>
     <tr>
       <td>Isaque da Silva</td>
-      <td>Product Owner</td>
+      <td>Desenvolvedor</td>
       <td><a href="https://github.com/KhovetS2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
       <td><a href="https://www.linkedin.com/in/isaque-elis-da-silva-2a4087226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
