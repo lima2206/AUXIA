@@ -82,7 +82,7 @@ O AUXIA - Auxiliary AI Training, permitirá que os usuários enviem prompts para
 | --------------- | :-----------: | ------------------------------------------------ |
 | 🔖 **SPRINT 1** | 10/03 - 30/03 | [Sprint 1 Docs](docs\sprints\sprint-1\README.md) |
 | 🔖 **SPRINT 2** | 07/04 - 27/04 | [Sprint 2 Docs](docs\sprints\sprint-2\README.md) |
-| 🔖 **SPRINT 3** | 05/05 - 25/05 | [Sprint 2 Docs](docs\sprints\sprint-3\README.md) |
+| 🔖 **SPRINT 3** | 05/05 - 25/05 | [Sprint 3 Docs](docs\sprints\sprint-3\README.md) |
 
 ## 💻 Tecnologias <a id="tecnologias"></a>
 

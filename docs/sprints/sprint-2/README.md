@@ -18,7 +18,7 @@
   <a href ="#equipe"> Equipe</a> |
 </p>
 
-> Status da Sprint: Em andamento 🛠️
+> Status da Sprint: Concluído ✅
 
 ## 🏅 Desafio <a id="desafio"></a>
 
@@ -65,6 +65,10 @@ Implementar funcionalidades que aprimorem a experiência do usuário durante o p
 |            Pronta para Deploy            | A funcionalidade pode ser entregue ao ambiente de produção/testes finais sem pendências.                         |
 
 ## 🏅 Sprint Burndown <a id="burndown"></a>
+
+<p align="center">
+      <img src="../../Img/Burndown_Sprint2.jpg" alt="Burndown Sprint 2" width="500">
+</p>
 
 ## 🎓 Equipe <a id="equipe"></a>
 
