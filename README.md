@@ -20,6 +20,8 @@
 </p>
 
 > Status do Projeto: Em andamento 🛠️
+>
+> Video do Projeto:  [Youtube](https://www.youtube.com/watch?v=YsBSjbzrdi0) 📽️
 
 ## 🏅 Desafio <a id="desafio"></a>
 
