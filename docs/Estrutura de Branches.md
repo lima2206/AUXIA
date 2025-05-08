@@ -1,7 +1,9 @@
 # Estrutura das Branches
 
-- **main**: Branch principal e estável.
-- **feature/<nome-da-feature>**: Para novas funcionalidades.
+```
+main: Branch principal e estável.
+feature/<nome-da-feature>: Para novas funcionalidades.
+```
 
 ## Prazo para Último Commit e PR
 
