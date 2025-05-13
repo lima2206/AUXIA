@@ -5,7 +5,7 @@
 # Documentação - Sprint 2
 
 <p align="center">
-      <img src="../../Img/logo-BuzzTech.png" alt="logo da Buzz Tech" width="200">
+      <img src="../../../img/logo-BuzzTech.png" alt="logo da Buzz Tech" width="200">
       <h2 align="center"> Buzz Tech</h2>
 </p>
 
@@ -28,12 +28,12 @@ Implementar funcionalidades que aprimorem a experiência do usuário durante o p
 
 | Rank | Prioridade | User Story                                                                                                                                                                                                     | Story Points | Sprint | Requisito do Cliente | Status |
 | :--: | :--------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :------------------: | :----: |
-|  7   |    Alta    | Como usuário, eu quero ser alertado caso minha escolha entre LLM1 e LLM2 não esteja coerente com minha avaliação, para que eu possa revisar minha decisão antes de finalizar.                                  |      3       |   2    |         R04          |   🛠️   |
-|  8   |    Alta    | Como usuário, eu quero que as respostas das LLMs sejam enriquecidas com informações relevantes da base de dados (vetorizada), para que sejam mais precisas                                                     |      5       |   2    |         R07          |   🛠️   |
-|  15  |   Média    | Como usuário, eu quero poder revisar minha escolha antes de submetê-la, para que eu tenha certeza de que minha decisão está correta.                                                                           |      2       |   2    |         R04          |   🛠️   |
-|  19  |   Baixa    | Como usuário, eu quero ser informado com mensagens de erro caso ocorra demora excessiva no envio do prompt ou na resposta das LLMs, ou outros erros, para que eu possa entender o problema e tentar novamente. |      2       |   2    |         R03          |   🛠️   |
-|  21  |   Baixa    | Como usuário, eu quero poder receber mensagens claras sobre o status das avaliações, para ter certeza de que minha avaliação foi registrada corretamente.                                                      |      2       |   2    |         R03          |   🛠️   |
-|  22  |   Baixa    | Como usuário, eu quero poder voltar para telas anteriores durante o processo de avaliação, para que eu possa corrigir informações antes de enviar a decisão final.                                             |      1       |   2    |       R03/R04        |   🛠️   |
+|  7   |    Alta    | Como usuário, eu quero ser alertado caso minha escolha entre LLM1 e LLM2 não esteja coerente com minha avaliação, para que eu possa revisar minha decisão antes de finalizar.                                  |      3       |   2    |         R04          |   ✅   |
+|  8   |    Alta    | Como usuário, eu quero que as respostas das LLMs sejam enriquecidas com informações relevantes da base de dados (vetorizada), para que sejam mais precisas                                                     |      5       |   2    |         R07          |   ✅   |
+|  15  |   Média    | Como usuário, eu quero poder revisar minha escolha antes de submetê-la, para que eu tenha certeza de que minha decisão está correta.                                                                           |      2       |   2    |         R04          |   ✅   |
+|  19  |   Baixa    | Como usuário, eu quero ser informado com mensagens de erro caso ocorra demora excessiva no envio do prompt ou na resposta das LLMs, ou outros erros, para que eu possa entender o problema e tentar novamente. |      2       |   2    |         R03          |   ✅   |
+|  21  |   Baixa    | Como usuário, eu quero poder receber mensagens claras sobre o status das avaliações, para ter certeza de que minha avaliação foi registrada corretamente.                                                      |      2       |   2    |         R03          |   ✅   |
+|  22  |   Baixa    | Como usuário, eu quero poder voltar para telas anteriores durante o processo de avaliação, para que eu possa corrigir informações antes de enviar a decisão final.                                             |      1       |   2    |       R03/R04        |   ✅   |
 
 ## 🏅 DoR - Definition of Ready <a id="dor"></a>
 
@@ -67,7 +67,7 @@ Implementar funcionalidades que aprimorem a experiência do usuário durante o p
 ## 🏅 Sprint Burndown <a id="burndown"></a>
 
 <p align="center">
-      <img src="../../Img/Burndown_Sprint2.jpg" alt="Burndown Sprint 2" width="500">
+      <img src="../../../img/Burndown_Sprint2.jpg" alt="Burndown Sprint 2" width="500">
 </p>
 
 ## 🎓 Equipe <a id="equipe"></a>
