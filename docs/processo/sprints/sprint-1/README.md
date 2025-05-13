@@ -6,7 +6,7 @@
 # Documentação - Sprint 1
 
 <p align="center">
-      <img src="../../Img/logo-BuzzTech.png" alt="logo da Buzz Tech" width="200">
+      <img src="../../../img/logo-BuzzTech.png" alt="logo da Buzz Tech" width="200">
       <h2 align="center"> Buzz Tech</h2>
 </p>
 
