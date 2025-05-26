@@ -70,7 +70,7 @@ Implementar o módulo completo de segurança e gestão de usuários da aplicaç�
 ## 🏅 Sprint Burndown <a id="burndown"></a>
 
 <p align="center">
-      <img src="../../../img/Burndown_Sprint3.jpg" alt="Burndown Sprint 3" width="500">
+      <img src="../../../Img/Burndown_Sprint3.jpg" alt="Burndown Sprint 3" width="500">
 </p>
 
 ## 🎓 Equipe <a id="equipe"></a>
