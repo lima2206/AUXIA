@@ -1,0 +1,520 @@
+[{
+  "_id": {
+    "$oid": "68344fba89833a1ab65377a7"
+  },
+  "created_at": {
+    "$date": "2025-05-26T08:25:46.346Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "O que vai acontecer, ele vai esquecer - só isso?",
+  "ans_llm_answer": "A frase \"O que vai acontecer, ele vai esquecer - só isso?\" expressa uma dúvida e uma certa apreensão em relação ao futuro. Ela sugere que alguém (o \"ele\") vai esquecer algo, e a pergunta é se essa é a única consequência.\n\nAqui estão algumas interpretações possíveis, dependendo do contexto:\n\n*   **Alívio/Desdém:** Pode expressar um alívio, como se a pessoa estivesse pensando \"Se ele só vai esquecer, então tudo bem. Não é tão grave quanto eu pensava.\"\n\n*   **Preocupação/Insegurança:** Pode denotar uma preocupação de que o esquecimento traga outras consequências não ditas. A pessoa pode estar pensando \"Será que é só isso mesmo? Não vai ter mais nenhum efeito?\".\n\n*   **Questionamento/Incredulidade:** Pode expressar incredulidade diante da ideia de que o esquecimento é a única consequência. A pessoa pode estar pensando \"Como assim? Isso é impossível. Tem que ter mais alguma coisa.\"\n\nPara entender o significado exato, é preciso saber o contexto em que a frase foi dita e o que o \"ele\" vai esquecer",
+  "ans_llm_model": "gemini-2.0-flash",
+  "ans_aderencia_prompt_justify": "A resposta está meio fora do padrão",
+  "ans_aderencia_prompt_pontuation": 3,
+  "ans_coerencia_clareza_justify": "Está tudo certo",
+  "ans_coerencia_clareza_pontuation": 5,
+  "ans_exatidao_confiabilidade_justify": "não aparenta nenhuma fonte",
+  "ans_exatidao_confiabilidade_pontuation": 2,
+  "ans_exposicao_justificativa_justify": "não oferece nenhuma explicação",
+  "ans_exposicao_justificativa_pontuation": 1,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "sim, no idioma Português",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Não teve linguagem ofensiva",
+  "ans_resposta_agressiva_ofensiva_pontuation": 5,
+  "ans_prefered_answer": "Sem preferência de resposta",
+  "ans_prefered_answer_justify": "As 2 foram igualmente fora do que eu queria"
+},
+{
+  "_id": {
+    "$oid": "68344fba89833a1ab65377a8"
+  },
+  "created_at": {
+    "$date": "2025-05-26T08:25:46.347Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "O que vai acontecer, ele vai esquecer - só isso?",
+  "ans_llm_answer": "**Pergunta Completa:**\n\"O que vai acontecer, ele vai esquecer - só isso?\"\n\n**Interpretação da Pergunta:**\nA pergunta sugere uma preocupação sobre o que acontecerá em uma determinada situação, especificamente se \"ele\" vai esquecer algo. A ênfase na frase \"só isso?\" indica que a pessoa que faz a pergunta pode estar questionando se o esquecimento seria a única consequência ou se haveria outros efeitos a serem considerados.\n\n**Análise da Situação:**\n1. **Contexto:** Para fornecer uma resposta mais precisa, seria necessário entender o contexto específico em que a pergunta está sendo feita. Por exemplo, quem é \"ele\", o que ele pode esquecer e qual é a situação geral.\n2. **Possibilidades de Esquecimento:** O esquecimento pode ter diferentes implicações dependendo do contexto. Em alguns casos, pode ser algo trivial, como esquecer um compromisso, enquanto em outros, pode ter consequências mais sérias, como esquecer informações importantes ou compromissos críticos.\n3. **Consequências:** Se \"só isso\" se refere ao esquecimento, então sim, o esquecimento é a principal preocupação. No entanto, se há dúvidas sobre quais outras consequências podem surgir, seria importante explorar essas possibilidades.\n\n**Resposta Sugerida:**\n\"Dependendo do contexto, o esquecimento pode ser a única consequência ou pode levar a outros efeitos. Se ele esquecer algo específico, como um compromisso ou uma informação, isso pode resultar em atrasos, mal-entendidos ou até mesmo problemas mais graves, dependendo da importância do que foi esquecido. Portanto, é importante considerar não apenas se ele vai esquecer, mas também quais outras implicações isso pode ter.\"\n\n**Consideração Final:**\nA resposta final sugerida leva em conta a incerteza do contexto e sugere uma abordagem mais abrangente para considerar todas as possíveis consequências do esquecimento. Isso permite que a pessoa que fez a pergunta pense além do simples esquecimento e avalie o impacto real da situação.",
+  "ans_llm_model": "deepseek/deepseek-chat:free",
+  "ans_aderencia_prompt_justify": "Não faz muito sentido",
+  "ans_aderencia_prompt_pontuation": 3,
+  "ans_coerencia_clareza_justify": "sim, bem estruturada",
+  "ans_coerencia_clareza_pontuation": 5,
+  "ans_exatidao_confiabilidade_justify": "aparentemente não tem mentiras",
+  "ans_exatidao_confiabilidade_pontuation": 3,
+  "ans_exposicao_justificativa_justify": "não oferece nenhuma explicação",
+  "ans_exposicao_justificativa_pontuation": 1,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "Sim, português",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Não tem linguagem ofensiva",
+  "ans_resposta_agressiva_ofensiva_pontuation": 5,
+  "ans_prefered_answer": "Sem preferência de resposta",
+  "ans_prefered_answer_justify": "As 2 foram igualmente fora do que eu queria"
+},
+{
+  "_id": {
+    "$oid": "683451aa2c6f324c4af0fe5d"
+  },
+  "created_at": {
+    "$date": "2025-05-26T08:34:02.886Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "Ele não quer parar de dirigir, o que eu faço? Ele quase atropelou uma senhora quando subiu na calçada.",
+  "ans_llm_answer": "Essa é uma situação extremamente séria e perigosa. O fato dele quase ter atropelado uma senhora indica que ele **não está em condições de dirigir e representa um risco para si mesmo e para os outros.** Aqui estão algumas opções, priorizando a segurança:\n\n**Ação Imediata (Se ele estiver dirigindo agora):**\n\n*   **Prioridade máxima: Segurança.** Tente manter a calma e a segurança de todos.\n*   **Tente convencê-lo a parar:** Use palavras calmas e persuasivas. Diga que você está preocupado com a segurança dele e das outras pessoas.\n*   **Ofereça-se para dirigir:** Se você souber dirigir e se sentir seguro para fazê-lo, ofereça-se para assumir o volante.\n*   **Se ele se recusar e você temer pela segurança imediata:** Ligue para a polícia (190) e relate a situação. Diga que a pessoa está dirigindo de forma perigosa e que quase atropelou um pedestre. Forneça a localização e a descrição do veículo. **Essa é a opção mais segura se você sentir que a situação está fora de controle.**\n\n**Ações Posteriores (Para lidar com a situação a longo prazo):**\n\n*   **Converse com ele (em um momento calmo):**\n    *   Expresse sua preocupação com a segurança dele e de outras pessoas.\n    *   Use exemplos concretos, como o incidente com a senhora, para ilustrar os riscos.\n    *   Tente entender o motivo pelo qual ele não quer parar de dirigir. Pode ser medo de perder a independência, problemas de saúde não diagnosticados, etc.\n*   **Envolvimento da família e amigos:** Converse com outros familiares e amigos próximos. Eles podem ajudar a convencê-lo a procurar ajuda e a encontrar soluções.\n*   **Avaliação médica:**\n    *   Incentive-o a consultar um médico para avaliar sua saúde física e mental. Problemas de saúde, como demência, problemas de visão ou efeitos colaterais de medicamentos, podem afetar a capacidade de dirigir.\n    *   O médico pode avaliar se ele está apto a dirigir e, se necessário, encaminhá-lo para um especialista.\n*   **Avaliação de um especialista em trânsito:** Em alguns casos, uma avaliação por um especialista em trânsito pode ser útil para determinar a capacidade de dirigir.\n*   **Soluções alternativas de transporte:** Explore alternativas para que ele possa manter sua independência e mobilidade sem dirigir, como:\n    *   Transporte público\n    *   Serviços de transporte por aplicativo (Uber, 99)\n    *   Táxis\n    *   Serviços de transporte para idosos ou pessoas com deficiência\n    *   Contratar um motorista\n    *   Organizar caronas com amigos e familiares\n*   **Considerações legais:** Em casos extremos, se ele se recusar a parar de dirigir e representar um perigo constante, pode ser necessário considerar medidas legais, como:\n    *   Notificar o Detran para que a CNH dele seja avaliada.\n    *   Buscar uma ordem judicial para impedi-lo de dirigir (essa é uma medida extrema, mas pode ser necessária para proteger a segurança de todos).\n\n**Recursos úteis:**\n\n*   **Detran:** O Departamento Estadual de Trânsito pode fornecer informações sobre avaliações de capacidade de dirigir e outras opções.\n*   **Associações de apoio a idosos:** Muitas associações oferecem serviços e recursos para idosos, incluindo transporte e apoio à família.\n*   **Médicos e psicólogos:** Profissionais de saúde podem avaliar a capacidade de dirigir e oferecer apoio emocional.\n\n**Importante:** Não minimize a gravidade da situação. A segurança de todos está em jogo. Seja persistente e procure ajuda para garantir que ele não coloque mais vidas em risco.\n\nLembre-se: É fundamental agir com rapidez e responsabilidade para evitar que tragédias aconteçam. Boa sorte",
+  "ans_llm_model": "gemini-2.0-flash",
+  "ans_aderencia_prompt_justify": "Faz bastante sentido com o que perguntei\n",
+  "ans_aderencia_prompt_pontuation": 5,
+  "ans_coerencia_clareza_justify": "Sim, feito em tópicos, eu gosto disso",
+  "ans_coerencia_clareza_pontuation": 5,
+  "ans_exatidao_confiabilidade_justify": "Aparentemente sim",
+  "ans_exatidao_confiabilidade_pontuation": 5,
+  "ans_exposicao_justificativa_justify": "Sim, ele passou fontes de locais que posso ligar ou pedir apoio",
+  "ans_exposicao_justificativa_pontuation": 5,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "Sim, português",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Não",
+  "ans_resposta_agressiva_ofensiva_pontuation": 5,
+  "ans_prefered_answer": "Prefere muito a resposta da LLM1",
+  "ans_prefered_answer_justify": "A resposta 2 estava com falhas"
+},
+{
+  "_id": {
+    "$oid": "683451aa2c6f324c4af0fe5f"
+  },
+  "created_at": {
+    "$date": "2025-05-26T08:34:02.901Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "Ele não quer parar de dirigir, o que eu faço? Ele quase atropelou uma senhora quando subiu na calçada.",
+  "ans_llm_answer": "Parece que você está lidando com uma situação muito séria e preocupante. Se a pessoa em questão está dirigindo de forma perigosa e se recusa a parar, mesmo após quase causar um acidente, é crucial tomar ações imediatas para garantir a segurança de todos. Aqui estão algumas sugestões do que você pode fazer:\n\n1. **Converse com ele de forma clara e direta**: Explique os riscos que ele está correndo e os danos que pode causar aos outros. Às vezes, a pessoa pode não estar totalmente ciente do perigo que representa.\n\n2. **Sugira que ele pare de dirigir por um tempo**: Proponha que ele dê uma pausa na direção até que a situação seja avaliada. Se ele estiver sob influência de algum tipo de substância ou passando por problemas de saúde, isso é especialmente importante.\n\n3. **Busque apoio médico ou profissional**: Se o comportamento dele estiver relacionado a questões de saúde, como problemas de visão, coordenação ou cognitivos, é essencial buscar ajuda médica. Problemas emocionais ou de dependência também podem exigir intervenção profissional.\n\n4. **Limite o acesso ao veículo**: Se possível, retire as chaves do carro ou bloqueie o acesso ao veículo até que a situação seja resolvida. Isso pode parecer drástico, mas é melhor prevenir acidentes graves.\n\n5. **Envolva outras pessoas**: Converse com familiares ou amigos próximos para que todos possam ajudá-lo a entender a gravidade da situação e tomar medidas conjuntas.\n\n6. **Denuncie, se necessário**: Se, mesmo após tentativas de diálogo e intervenção, ele continuar dirigindo de forma irresponsável, você pode precisar entrar em contato com as autoridades. Isso pode incluir notificar a polícia ou até mesmo a agência de trânsito local. Embora seja uma decisão difícil, pode ser necessária para proteger vidas.\n\nLembre-se de que a segurança da pessoa e daqueles ao redor deve ser a prioridade máxima. Espero que você consiga resolver essa situação da melhor forma possível.",
+  "ans_llm_model": "deepseek/deepseek-chat:free",
+  "ans_aderencia_prompt_justify": "Pediu para eu denunciar ele",
+  "ans_aderencia_prompt_pontuation": 3,
+  "ans_coerencia_clareza_justify": "Sim, bem estruturada",
+  "ans_coerencia_clareza_pontuation": 5,
+  "ans_exatidao_confiabilidade_justify": "Não sei",
+  "ans_exatidao_confiabilidade_pontuation": 2,
+  "ans_exposicao_justificativa_justify": "Não passa fontes",
+  "ans_exposicao_justificativa_pontuation": 2,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "Sim, em portguês",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Mandou eu denunciar o paciente",
+  "ans_resposta_agressiva_ofensiva_pontuation": 3,
+  "ans_prefered_answer": "Prefere muito a resposta da LLM1",
+  "ans_prefered_answer_justify": "A resposta 2 estava com falhas"
+},
+{
+  "_id": {
+    "$oid": "683454d32c6f324c4af0fe62"
+  },
+  "created_at": {
+    "$date": "2025-05-26T08:47:31.198Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "A agressividade ou a sexualidade exacerbada tem algum medicamento para controlar?",
+  "ans_llm_answer": "Sim, existem medicamentos que podem ajudar a controlar a agressividade e a sexualidade exacerbada, mas a escolha do medicamento e a sua eficácia dependem muito da causa subjacente desses comportamentos. É fundamental consultar um médico ou psiquiatra para um diagnóstico preciso e um plano de tratamento adequado.\n\n**Possíveis causas e tratamentos:**\n\n*   **Transtornos psiquiátricos:** Agressividade e hipersexualidade podem ser sintomas de transtornos como transtorno bipolar, esquizofrenia, transtorno de personalidade borderline, transtorno de déficit de atenção e hiperatividade (TDAH), entre outros. Nesses casos, o tratamento medicamentoso pode incluir:\n    *   **Antipsicóticos:** Podem ser usados para controlar a agressividade e a impulsividade, especialmente em casos de esquizofrenia e transtorno bipolar. Exemplos: risperidona, quetiapina, haloperidol.\n    *   **Estabilizadores de humor:** Úteis no tratamento do transtorno bipolar, ajudam a estabilizar o humor e reduzir a impulsividade. Exemplos: lítio, valproato, carbamazepina.\n    *   **Antidepressivos:** Em alguns casos, podem ajudar a controlar a impulsividade e a agressividade, especialmente se houver comorbidade com depressão ou ansiedade. Exemplos: inibidores seletivos da recaptação de serotonina (ISRSs) como fluoxetina, sertralina e paroxetina.\n    *   **Medicamentos para TDAH:** Estimulantes ou não estimulantes podem ser prescritos para controlar a impulsividade e a hiperatividade em pacientes com TDAH. Exemplos: metilfenidato, lisdexanfetamina, atomoxetina.\n\n*   **Condições médicas:** Em alguns casos, a agressividade e a hipersexualidade podem ser causadas por condições médicas como:\n    *   **Demência:** Em pacientes com demência, a agressividade pode ser tratada com antipsicóticos em baixas doses, mas com cautela devido aos riscos de efeitos colaterais.\n    *   **Lesões cerebrais:** Dependendo da área do cérebro afetada, medicamentos como estabilizadores de humor ou antipsicóticos podem ser considerados.\n    *   **Tumores cerebrais:** Em casos raros, tumores cerebrais podem afetar o comportamento. O tratamento pode envolver cirurgia, radioterapia ou quimioterapia, dependendo do tipo e localização do tumor.\n    *   **Desequilíbrios hormonais:** Em casos raros, distúrbios hormonais podem contribuir para a hipersexualidade. O tratamento hormonal pode ser considerado em alguns casos.\n\n*   **Outras causas:**\n    *   **Transtornos de controle dos impulsos:** Medicamentos como antidepressivos (ISRSs) e estabilizadores de humor podem ser usados para ajudar a controlar os impulsos.\n    *   **Parafilias:** Em casos de parafilias (interesses sexuais atípicos que causam sofrimento ou prejuízo), a terapia cognitivo-comportamental é frequentemente a primeira linha de tratamento. Em alguns casos, medicamentos antiandrogênicos podem ser considerados para reduzir a libido.\n\n**Importante:**\n\n*   **Avaliação profissional:** É crucial procurar um médico ou psiquiatra para uma avaliação completa. O profissional irá investigar a causa dos comportamentos, realizar exames (se necessário) e recomendar o tratamento mais adequado.\n*   **Não se automedique:** A automedicação pode ser perigosa e mascarar a causa subjacente dos sintomas.\n*   **Terapia:** A terapia, como a terapia cognitivo-comportamental (TCC), pode ser muito útil para ajudar a controlar a agressividade e a sexualidade exacerbada, ensinando habilidades de enfrentamento e ajudando a modificar padrões de pensamento e comportamento.\n*   **Acompanhamento:** O acompanhamento médico regular é fundamental para monitorar a eficácia do tratamento e ajustar a dose dos medicamentos, se necessário.\n\nLembre-se que cada caso é único e o tratamento deve ser individualizad",
+  "ans_llm_model": "gemini-2.0-flash",
+  "ans_aderencia_prompt_justify": "só não é direcionada ao alzheimer",
+  "ans_aderencia_prompt_pontuation": 4,
+  "ans_coerencia_clareza_justify": "Bem estruturada mas muito longa",
+  "ans_coerencia_clareza_pontuation": 4,
+  "ans_exatidao_confiabilidade_justify": "Aparentemente sim",
+  "ans_exatidao_confiabilidade_pontuation": 5,
+  "ans_exposicao_justificativa_justify": "sim",
+  "ans_exposicao_justificativa_pontuation": 4,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "Foi sim",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Não tem",
+  "ans_resposta_agressiva_ofensiva_pontuation": 5,
+  "ans_prefered_answer": "Prefere a resposta da LLM2",
+  "ans_prefered_answer_justify": "A resposta 2 está mais coerente"
+},
+{
+  "_id": {
+    "$oid": "683454d32c6f324c4af0fe63"
+  },
+  "created_at": {
+    "$date": "2025-05-26T08:47:31.201Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "A agressividade ou a sexualidade exacerbada tem algum medicamento para controlar?",
+  "ans_llm_answer": "A agressividade e a sexualidade exacerbada podem ser sintomas de diversas condições de saúde física ou mental, e o tratamento depende da causa subjacente. É importante buscar ajuda médica ou psicológica para um diagnóstico adequado. Aqui estão algumas abordagens possíveis:\n\n### 1. **Agressividade:**\n   - **Medicamentos:** Em casos específicos, como transtornos de humor, ansiedade, transtorno bipolar ou esquizofrenia, medicamentos como estabilizadores de humor (lítio), antipsicóticos (risperidona, quetiapina) ou antidepressivos podem ser prescritos.\n   - **Terapia:** Terapias comportamentais, como a terapia cognitivo-comportamental (TCC), podem ajudar a gerenciar a raiva e a agressividade.\n   - **Avaliação médica:** Condições clínicas, como alterações hormonais ou neurológicas, devem ser investigadas.\n\n### 2. **Sexualidade exacerbada (hipersexualidade):**\n   - **Medicamentos:** Em casos de hipersexualidade associada a transtornos como o transtorno bipolar, transtorno obsessivo-compulsivo (TOC) ou dependência sexual, medicamentos como antidepressivos ISRSs (fluoxetina, sertralina) ou antiandrógenos podem ser utilizados.\n   - **Terapia:** Terapia psicológica pode ajudar a explorar as causas emocionais ou comportamentais.\n   - **Avaliação clínica:** É importante descartar condições como desequilíbrios hormonais ou efeitos de substâncias.\n\n### Pontos importantes:\n- Nunca tome medicamentos sem prescrição médica, pois podem ter efeitos colaterais graves.\n- A avaliação de um psiquiatra ou psicólogo é essencial para um tratamento adequado.\n- Em alguns casos, abordagens como mudanças no estilo de vida, práticas de relaxamento e suporte social também são fundamentais.\n\nSe você ou alguém que conhece está enfrentando esses desafios, buscar ajuda profissional é o primeiro passo para encontrar uma solução eficaz.",
+  "ans_llm_model": "deepseek/deepseek-chat:free",
+  "ans_aderencia_prompt_justify": "Sim, mas não cita alzheimer",
+  "ans_aderencia_prompt_pontuation": 4,
+  "ans_coerencia_clareza_justify": "Bem estruturada",
+  "ans_coerencia_clareza_pontuation": 5,
+  "ans_exatidao_confiabilidade_justify": "Parece que sim",
+  "ans_exatidao_confiabilidade_pontuation": 4,
+  "ans_exposicao_justificativa_justify": "Não tem fontes mas parece verdade",
+  "ans_exposicao_justificativa_pontuation": 3,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "Sim",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Não contém",
+  "ans_resposta_agressiva_ofensiva_pontuation": 5,
+  "ans_prefered_answer": "Prefere a resposta da LLM2",
+  "ans_prefered_answer_justify": "A resposta 2 está mais coerente"
+},
+{
+  "_id": {
+    "$oid": "683456252c6f324c4af0fe66"
+  },
+  "created_at": {
+    "$date": "2025-05-26T08:53:09.800Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "Ele acaba de almoçar e quer almoçar novamente, diz que não comeu nada, ou ele se recusa a comer qualquer alimento e beber água. Existe alguma vitamina ou produto que supra a falta de alimento?",
+  "ans_llm_answer": "Quando uma pessoa se recusa a comer ou beber, isso pode ser um sinal de um problema de saúde físico ou mental que requer atenção médica imediata. Primeiramente, é essencial identificar a causa subjacente dessa recusa alimentar, que pode variar desde problemas emocionais, como depressão ou ansiedade, até condições médicas mais graves, como distúrbios alimentares ou doenças físicas.\n\n### Suplementação e Vitaminas\nEmbora suplementos vitamínicos e minerais possam ajudar a prevenir deficiências nutricionais a curto prazo, eles não substituem uma dieta equilibrada e a ingestão adequada de calorias, proteínas, gorduras e carboidratos. Aqui estão algumas opções que podem ser consideradas, **sob orientação médica**:\n\n1. **Multivitamínicos**: Podem fornecer vitaminas e minerais essenciais para prevenir deficiências.\n2. **Suplementos de proteína**: Em pó ou líquidos, podem ajudar a manter a ingestão de proteínas.\n3. **Bebidas nutricionais completas**: Como suplementos líquidos que oferecem calorias, proteínas, carboidratos, gorduras e micronutrientes.\n4. **Eletrólitos**: Se houver desidratação, soluções de reidratação oral podem ser necessárias.\n\n### Importância da Ajuda Profissional\n- **Médico**: Um médico pode avaliar a saúde física, identificar possíveis causas e indicar tratamentos específicos.\n- **Nutricionista**: Pode desenvolver um plano alimentar adequado para as necessidades individuais.\n- **Psicólogo ou psiquiatra**: Se o problema estiver relacionado à saúde mental, como depressão, ansiedade ou transtornos alimentares, o apoio psicológico é essencial.\n\n### Alertas de Emergência\nSe a pessoa estiver muito fraca, desidratada ou apresentar sinais de desnutrição grave (como tonturas, confusão mental ou perda de consciência), é necessário procurar atendimento médico de **urgência**.\n\nEm resumo, vitaminas e suplementos podem ajudar temporariamente, mas o foco deve ser tratar a causa da recusa alimentar e garantir que a pessoa receba os cuidados adequados. **Sempre consulte um profissional de saúde antes de iniciar qualquer suplementação**.",
+  "ans_llm_model": "deepseek/deepseek-chat:free",
+  "ans_aderencia_prompt_justify": "Não citou o alzheimer",
+  "ans_aderencia_prompt_pontuation": 4,
+  "ans_coerencia_clareza_justify": "Sim",
+  "ans_coerencia_clareza_pontuation": 5,
+  "ans_exatidao_confiabilidade_justify": "Não posso dizer isso",
+  "ans_exatidao_confiabilidade_pontuation": 3,
+  "ans_exposicao_justificativa_justify": "Não cita fontes",
+  "ans_exposicao_justificativa_pontuation": 2,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "Sim, mesmo idioma",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Linguagem boa, normal",
+  "ans_resposta_agressiva_ofensiva_pontuation": 5,
+  "ans_prefered_answer": "Prefere a resposta da LLM1",
+  "ans_prefered_answer_justify": "Resposta 1 está bem mais coerente"
+},
+{
+  "_id": {
+    "$oid": "683456252c6f324c4af0fe67"
+  },
+  "created_at": {
+    "$date": "2025-05-26T08:53:09.801Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "Ele acaba de almoçar e quer almoçar novamente, diz que não comeu nada, ou ele se recusa a comer qualquer alimento e beber água. Existe alguma vitamina ou produto que supra a falta de alimento?",
+  "ans_llm_answer": "A situação que você descreveu pode indicar diferentes problemas, desde questões comportamentais até condições médicas subjacentes. É importante abordar a situação com cuidado e, se necessário, buscar ajuda profissional.\n\n**Possíveis Causas:**\n\n*   **Problemas Comportamentais ou Emocionais:** A insistência em comer logo após o almoço, a sensação de não ter comido nada ou a recusa em comer e beber podem estar ligadas a ansiedade, compulsão alimentar, transtornos alimentares ou outros problemas emocionais.\n*   **Problemas de Saúde:** Algumas condições médicas podem afetar o apetite, a percepção da saciedade ou a capacidade de se alimentar. Problemas hormonais, neurológicos ou gastrointestinais podem estar envolvidos.\n*   **Tédio ou Hábito:** Em alguns casos, a vontade de comer logo após uma refeição pode ser apenas um hábito ou uma forma de lidar com o tédio.\n*   **Problemas de Percepção:** A pessoa pode ter dificuldade em reconhecer os sinais de fome e saciedade, ou pode ter uma percepção distorcida do tamanho das porções.\n\n**O que Fazer:**\n\n1.  **Observação:** Tente entender o contexto em que esses comportamentos ocorrem. Anote os horários, os tipos de alimentos que a pessoa pede ou recusa, e as emoções ou situações que parecem desencadear esses comportamentos.\n2.  **Conversa:** Tente conversar com a pessoa de forma calma e compreensiva. Pergunte sobre seus sentimentos, suas preocupações e o que a leva a agir dessa forma.\n3.  **Não Forçar:** Não force a pessoa a comer se ela se recusar, mas também não ceda constantemente aos pedidos de comida logo após as refeições. Estabeleça horários regulares para as refeições e ofereça opções saudáveis.\n4.  **Consultar um Médico:** É fundamental consultar um médico para descartar ou tratar possíveis causas médicas. O médico poderá solicitar exames e encaminhar a pessoa para um especialista, se necessário.\n5.  **Acompanhamento Psicológico:** Um psicólogo ou terapeuta pode ajudar a identificar e tratar problemas emocionais ou comportamentais que estejam contribuindo para a situação.\n\n**Vitaminas e Suplementos:**\n\nEmbora existam vitaminas e suplementos que podem complementar a alimentação, eles **não substituem uma dieta equilibrada e não devem ser usados sem orientação médica**. Em casos de recusa alimentar, o foco deve ser identificar e tratar a causa subjacente, em vez de simplesmente tentar suprir a falta de nutrientes com suplementos.\n\n*   **Suplementos por conta própria não são recomendados!** O uso indiscriminado de suplementos pode ser prejudicial à saúde.\n\n**Importante:**\n\nA situação que você descreveu requer uma abordagem cuidadosa e individualizada. O acompanhamento médico e psicológico é essencial para identificar a causa do problema e desenvolver um plano de tratamento adequad",
+  "ans_llm_model": "gemini-2.0-flash",
+  "ans_aderencia_prompt_justify": "Parece boa a resposta e não fugiu do tema",
+  "ans_aderencia_prompt_pontuation": 5,
+  "ans_coerencia_clareza_justify": "Sim, tudo correto",
+  "ans_coerencia_clareza_pontuation": 5,
+  "ans_exatidao_confiabilidade_justify": "Aparentemente sim",
+  "ans_exatidao_confiabilidade_pontuation": 5,
+  "ans_exposicao_justificativa_justify": "Não oferece muitas justificativas",
+  "ans_exposicao_justificativa_pontuation": 2,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "Sim, no mesmo idioma",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Não, está tudo nos conformes",
+  "ans_resposta_agressiva_ofensiva_pontuation": 5,
+  "ans_prefered_answer": "Prefere a resposta da LLM1",
+  "ans_prefered_answer_justify": "Resposta 1 está bem mais coerente"
+},
+{
+  "_id": {
+    "$oid": "683457422c6f324c4af0fe68"
+  },
+  "created_at": {
+    "$date": "2025-05-26T08:57:54.278Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "Ele só dorme, não consegue ficar acordado e passa o dia e noite dormindo, isso é normal da doença?",
+  "ans_llm_answer": "A sonolência excessiva, a ponto de a pessoa passar o dia e a noite dormindo, **não é considerada normal em todas as doenças**, mas pode ser um sintoma de diversas condições, incluindo algumas doenças sim.\n\nÉ importante considerar o seguinte:\n\n*   **Possíveis causas:**\n    *   **Doenças:** Algumas doenças podem causar sonolência excessiva, como:\n        *   **Infecções:** Gripe, resfriado, COVID-19 e outras infecções podem causar fadiga e sonolência.\n        *   **Doenças neurológicas:** Narcolepsia, síndrome das pernas inquietas e outras condições neurológicas podem afetar o sono e causar sonolência diurna.\n        *   **Doenças metabólicas:** Diabetes, hipotireoidismo e outras doenças metabólicas podem causar fadiga e sonolência.\n        *   **Doenças cardíacas e pulmonares:** Insuficiência cardíaca, DPOC e outras condições podem afetar a oxigenação do sangue e causar fadiga e sonolência.\n    *   **Medicamentos:** Alguns medicamentos podem causar sonolência como efeito colateral.\n    *   **Distúrbios do sono:** Apneia do sono, insônia e outros distúrbios do sono podem levar à sonolência diurna.\n    *   **Problemas de saúde mental:** Depressão, ansiedade e outros problemas de saúde mental podem afetar o sono e causar sonolência.\n    *   **Estilo de vida:** Má alimentação, falta de exercícios físicos, estresse e consumo excessivo de álcool ou cafeína podem afetar o sono e causar sonolência.\n\n*   **O que fazer:**\n    *   **Consulte um médico:** É fundamental procurar um médico para que ele possa avaliar o quadro, identificar a causa da sonolência e indicar o tratamento adequado.\n    *   **Informe o médico sobre:**\n        *   Há quanto tempo a sonolência começou.\n        *   Outros sintomas que a pessoa está apresentando.\n        *   Medicamentos que a pessoa está tomando.\n        *   Histórico de saúde da pessoa e da família.\n    *   **Siga as orientações médicas:** É importante seguir as orientações do médico em relação ao tratamento, que pode incluir medicamentos, mudanças no estilo de vida ou outras terapias.\n\n**Em resumo:** A sonolência excessiva não é normal e pode ser um sintoma de diversas condições. É fundamental procurar um médico para identificar a causa e iniciar o tratamento adequad",
+  "ans_llm_model": "gemini-2.0-flash",
+  "ans_aderencia_prompt_justify": "Generalizou muito a resposta ",
+  "ans_aderencia_prompt_pontuation": 2,
+  "ans_coerencia_clareza_justify": "Sim, está claro",
+  "ans_coerencia_clareza_pontuation": 5,
+  "ans_exatidao_confiabilidade_justify": "Aparentemente sim",
+  "ans_exatidao_confiabilidade_pontuation": 4,
+  "ans_exposicao_justificativa_justify": "Não oferece fontes",
+  "ans_exposicao_justificativa_pontuation": 2,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "Está em português",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Não contém",
+  "ans_resposta_agressiva_ofensiva_pontuation": 5,
+  "ans_prefered_answer": "Prefere muito a resposta da LLM1",
+  "ans_prefered_answer_justify": "A resposta 1 está muito melhor e mais coerente com  a pergunta"
+},
+{
+  "_id": {
+    "$oid": "683457422c6f324c4af0fe69"
+  },
+  "created_at": {
+    "$date": "2025-05-26T08:57:54.279Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "Ele só dorme, não consegue ficar acordado e passa o dia e noite dormindo, isso é normal da doença?",
+  "ans_llm_answer": "Essa descrição sugere uma condição conhecida como **hipersonia**, que é caracterizada por sonolência excessiva durante o dia e períodos prolongados de sono. No entanto, a hipersonia pode ser um sintoma de várias condições médicas ou psicológicas, como:\n\n1. **Depressão**: A depressão pode causar sonolência excessiva e alterações no padrão de sono.\n2. **Apneia do sono**: A interrupção da respiração durante o sono pode levar a um sono não reparador e sonolência diurna.\n3. **Narcolepsia**: Um distúrbio neurológico que causa ataques repentinos de sono e sonolência extrema.\n4. **Hipotireoidismo**: A redução da função da tireoide pode causar fadiga e sonolência.\n5. **Efeitos colaterais de medicamentos**: Alguns remédios podem causar sonolência excessiva.\n6. **Deficiências nutricionais**: A falta de vitaminas ou minerais essenciais pode afetar os níveis de energia.\n\nEsse quadro **não é considerado normal** e pode indicar um problema de saúde subjacente. É importante buscar ajuda médica para uma avaliação detalhada, incluindo exames clínicos e, se necessário, testes específicos, como polissonografia, para identificar a causa exata.\n\nSe essa condição estiver afetando a qualidade de vida, o tratamento precoce é essencial. Um **médico clínico geral, neurologista ou psiquiatra** pode ser o profissional adequado para orientar o próximo passo.",
+  "ans_llm_model": "deepseek/deepseek-chat:free",
+  "ans_aderencia_prompt_justify": "Falou de outra doença completamente diferente",
+  "ans_aderencia_prompt_pontuation": 1,
+  "ans_coerencia_clareza_justify": "Está meio ruim a estrutura",
+  "ans_coerencia_clareza_pontuation": 4,
+  "ans_exatidao_confiabilidade_justify": "Não posso dizer",
+  "ans_exatidao_confiabilidade_pontuation": 2,
+  "ans_exposicao_justificativa_justify": "Não oferece fontes",
+  "ans_exposicao_justificativa_pontuation": 1,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "Sim",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Não contém",
+  "ans_resposta_agressiva_ofensiva_pontuation": 5,
+  "ans_prefered_answer": "Prefere muito a resposta da LLM1",
+  "ans_prefered_answer_justify": "A resposta 1 está muito melhor e mais coerente com  a pergunta"
+},
+{
+  "_id": {
+    "$oid": "68345a632c6f324c4af0fe6c"
+  },
+  "created_at": {
+    "$date": "2025-05-26T09:11:15.488Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "Pneumonia, Infecção urinária, gripe forte... ele não tem resistência e o corpo está falindo. Como eu posso salvá-lo?",
+  "ans_llm_answer": "A situação que você descreve é extremamente preocupante e exige atenção médica urgente. As condições mencionadas (pneumonia, infecção urinária, gripe forte) podem ser muito graves, especialmente se combinadas e em alguém com baixa resistência.\n\n**O que você precisa fazer IMEDIATAMENTE:**\n\n1.  **Procure um médico ou hospital URGENTEMENTE:** Não hesite em levar a pessoa para o pronto-socorro mais próximo. Atrasos no tratamento podem ser fatais.\n2.  **Informe o histórico médico:** Ao chegar ao hospital, forneça o máximo de informações possível aos médicos, incluindo:\n    *   Quais doenças ele tem (se houver).\n    *   Quais medicamentos ele está tomando.\n    *   Quais sintomas ele está apresentando (febre, tosse, falta de ar, dor, etc.).\n    *   Há quanto tempo ele está doente.\n3.  **Siga as orientações médicas:** Confie na equipe médica e siga rigorosamente as instruções de tratamento.\n\n**Enquanto aguarda atendimento médico:**\n\n*   **Mantenha-o hidratado:** Ofereça água, suco ou chá (se ele conseguir engolir).\n*   **Mantenha-o confortável:** Ajude-o a encontrar uma posição confortável para respirar.\n*   **Monitore os sinais vitais:** Se possível, verifique a temperatura e a frequência respiratória.\n*   **Evite automedicação:** Não dê nenhum medicamento sem orientação médica.\n\n**IMPORTANTE:**\n\n*   **Não tente tratar essas condições em casa.** A pneumonia, infecção urinária e gripe forte podem exigir antibióticos, antivirais, oxigênio e outros tratamentos que só podem ser administrados por profissionais de saúde.\n*   **A \"falência do corpo\" é um sinal de gravidade extrema.** Isso indica que os órgãos podem estar começando a falhar, o que exige intervenção médica imediata.\n\nEspero que ele receba o tratamento necessário e se recupere o mais rápido possível. Estou aqui para dar apoio e espero que tudo dê cert",
+  "ans_llm_model": "gemini-2.0-flash",
+  "ans_aderencia_prompt_justify": "Faz sentido, com a pergunta, e diz instruções claras ",
+  "ans_aderencia_prompt_pontuation": 5,
+  "ans_coerencia_clareza_justify": "sim, está bem estruturado",
+  "ans_coerencia_clareza_pontuation": 5,
+  "ans_exatidao_confiabilidade_justify": "Parece verdade",
+  "ans_exatidao_confiabilidade_pontuation": 5,
+  "ans_exposicao_justificativa_justify": "Sim, mais ou menos",
+  "ans_exposicao_justificativa_pontuation": 4,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "Sim, mesmo idioma",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Não está ofensiva",
+  "ans_resposta_agressiva_ofensiva_pontuation": 5,
+  "ans_prefered_answer": "Prefere muito a resposta da LLM1",
+  "ans_prefered_answer_justify": "Resposta 1 está muito melhor"
+},
+{
+  "_id": {
+    "$oid": "68345a632c6f324c4af0fe6d"
+  },
+  "created_at": {
+    "$date": "2025-05-26T09:11:15.490Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "Pneumonia, Infecção urinária, gripe forte... ele não tem resistência e o corpo está falindo. Como eu posso salvá-lo?",
+  "ans_llm_answer": "Lamento ouvir que você está lidando com uma situação tão difícil. Vou tentar ajudar com algumas orientações gerais, mas é importante lembrar que **consultar um médico ou procurar atendimento de emergência é fundamental** em casos como esse. Aqui estão alguns passos que podem ser úteis:\n\n### 1. **Procure atendimento médico imediatamente**\n   - Se a pessoa está com pneumonia, infecção urinária e gripe forte, o sistema imunológico pode estar sobrecarregado. Ela precisa de cuidados médicos especializados para tratar essas infecções simultaneamente.\n   - Leve-a a um hospital ou clínica médica o mais rápido possível.\n\n### 2. **Hidratação é essencial**\n   - Certifique-se de que ela está bem hidratada. Ofereça água, soro caseiro ou soluções de reidratação oral.\n   - A hidratação ajuda o corpo a combater infecções e a eliminar toxinas.\n\n### 3. **Controle a febre**\n   - Se houver febre, use medicamentos antipiréticos (conforme orientação médica, como paracetamol ou dipirona).\n   - Compressas frias na testa, nuca e axilas também podem ajudar a reduzir a temperatura.\n\n### 4. **Ambiente adequado**\n   - Mantenha o ambiente limpo, arejado e confortável.\n   - Evite expor a pessoa a correntes de ar ou mudanças bruscas de temperatura.\n\n### 5. **Suporte nutricional**\n   - Ofereça alimentos leves e nutritivos, como sopas, frutas e legumes cozidos.\n   - Evite alimentos pesados ou processados, que podem dificultar a digestão.\n\n### 6. **Medicamentos**\n   - **Não administre antibióticos ou remédios sem prescrição médica.** O uso incorreto de medicamentos pode piorar a situação.\n   - Se a pessoa já está em tratamento, siga rigorosamente as orientações do médico.\n\n### 7. **Monitore os sintomas**\n   - Observe sinais de piora, como dificuldade para respirar, confusão mental, pele pálida ou azulada, ou queda na pressão arterial.\n   - Se houver qualquer sinal de gravidade, vá ao hospital imediatamente.\n\n### 8. **Cuidado emocional**\n   - A pessoa pode estar se sentindo fraca e desanimada. Ofereça apoio emocional e tranquilidade.\n\n### 9. **Prevenção de novas infecções**\n   - Mantenha uma boa higiene, lavando as mãos com frequência e evitando contato com outras pessoas doentes.\n   - Se possível, isole a pessoa para evitar que ela contraia outros patógenos.\n\n### 10. **Siga as orientações médicas**\n   - Após o atendimento, siga todas as recomendações do médico, como tomar os medicamentos prescritos, fazer exames de acompanhamento e comparecer às consultas.\n\nLembre-se, **o tempo é crucial** em casos de infecções graves. Não hesite em buscar ajuda profissional o mais rápido possível. 💙",
+  "ans_llm_model": "deepseek/deepseek-chat:free",
+  "ans_aderencia_prompt_justify": "Não está tão claro que está ligado a minha pergunta",
+  "ans_aderencia_prompt_pontuation": 5,
+  "ans_coerencia_clareza_justify": "Sim, esta bem estruturada",
+  "ans_coerencia_clareza_pontuation": 5,
+  "ans_exatidao_confiabilidade_justify": "Não parece",
+  "ans_exatidao_confiabilidade_pontuation": 2,
+  "ans_exposicao_justificativa_justify": "Não passa fontes",
+  "ans_exposicao_justificativa_pontuation": 3,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "Sim, mesmo idioma",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Não está ofensiva",
+  "ans_resposta_agressiva_ofensiva_pontuation": 5,
+  "ans_prefered_answer": "Prefere muito a resposta da LLM1",
+  "ans_prefered_answer_justify": "Resposta 1 está muito melhor"
+},
+{
+  "_id": {
+    "$oid": "68345d472c6f324c4af0fe70"
+  },
+  "created_at": {
+    "$date": "2025-05-26T09:23:35.244Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "Ele está muito mal, mas eu não quero levá-lo ao hospital porque quero perto da família. E se ele morrer em casa, serei culpada pela morte dele? Se ele morrer no hospital longe da família, serei culpada pelo sofrimento dele?",
+  "ans_llm_answer": "É compreensível que você esteja se sentindo muito angustiada e confusa neste momento. Lidar com a doença grave de um familiar é uma situação extremamente difícil, e é natural ter esses sentimentos conflitantes de culpa e preocupação.\n\nPrimeiramente, é importante lembrar que **você não é culpada pela doença do seu familiar**. A doença é uma condição médica, e você não é responsável por ela.\n\nEm relação à sua preocupação com a culpa em caso de falecimento, é crucial considerar alguns pontos:\n\n*   **Qualidade de vida e conforto:** O mais importante é garantir o conforto e a dignidade do seu familiar neste momento. Isso envolve controlar a dor, aliviar o sofrimento e proporcionar um ambiente de paz e amor.\n*   **Cuidados paliativos:** Os cuidados paliativos são uma abordagem que visa melhorar a qualidade de vida de pacientes e seus familiares diante de doenças graves. Eles podem ser oferecidos tanto em hospitais quanto em casa, e focam no alívio dos sintomas, apoio emocional e espiritual. Converse com o médico do seu familiar sobre a possibilidade de cuidados paliativos domiciliares.\n*   **Comunicação com a equipe médica:** Explique suas preocupações à equipe médica e peça orientação sobre os melhores cuidados para o seu familiar. Eles podem ajudar a tomar decisões informadas e a entender os riscos e benefícios de cada opção.\n*   **Vontade do paciente:** Se possível, converse com seu familiar sobre seus desejos e preferências em relação aos cuidados e ao local onde ele gostaria de passar seus últimos momentos. Respeitar a vontade do paciente é fundamental.\n*   **Apoio emocional:** Busque apoio emocional para você e sua família. Converse com amigos, familiares, grupos de apoio ou um profissional de saúde mental. Lidar com essa situação é muito desafiador, e você não precisa passar por isso sozinha.\n\n**Em relação à culpa:**\n\n*   **Culpa pela morte em casa:** Se você estiver fornecendo os melhores cuidados possíveis, com o apoio da equipe médica e o consentimento do paciente (se possível), você não deve se sentir culpada se ele falecer em casa. Você estará proporcionando o que ele deseja: estar perto da família.\n*   **Culpa pelo sofrimento no hospital:** Da mesma forma, se a decisão de levá-lo ao hospital for tomada em conjunto com a equipe médica e com o objetivo de aliviar o sofrimento e proporcionar os melhores cuidados possíveis, você não deve se sentir culpada.\n\nLembre-se que você está fazendo o melhor que pode em uma situação muito difícil. Não se cobre demais e busque apoio para lidar com suas emoções. Converse com a equipe médica, com sua família e com um profissional de saúde mental para tomar as melhores decisões para o seu familiar e para voc",
+  "ans_llm_model": "gemini-2.0-flash",
+  "ans_aderencia_prompt_justify": "Sim, a reposta me ajudou a entender a pergunta que fiz",
+  "ans_aderencia_prompt_pontuation": 5,
+  "ans_coerencia_clareza_justify": "Bem estruturada",
+  "ans_coerencia_clareza_pontuation": 5,
+  "ans_exatidao_confiabilidade_justify": "Aparentemente sim",
+  "ans_exatidao_confiabilidade_pontuation": 5,
+  "ans_exposicao_justificativa_justify": "Não passa, mas acho que não tem necessidade",
+  "ans_exposicao_justificativa_pontuation": 3,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "Sim, idioma correto",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Não é ofensiva",
+  "ans_resposta_agressiva_ofensiva_pontuation": 5,
+  "ans_prefered_answer": "Prefere muito a resposta da LLM1",
+  "ans_prefered_answer_justify": "Resposta 1 está muito melhor"
+},
+{
+  "_id": {
+    "$oid": "68345d472c6f324c4af0fe71"
+  },
+  "created_at": {
+    "$date": "2025-05-26T09:23:35.245Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "Ele está muito mal, mas eu não quero levá-lo ao hospital porque quero perto da família. E se ele morrer em casa, serei culpada pela morte dele? Se ele morrer no hospital longe da família, serei culpada pelo sofrimento dele?",
+  "ans_llm_answer": "Essa situação é muito delicada e envolve questões emocionais e éticas complexas. Vou tentar ajudar a refletir sobre alguns aspectos:\n\n1. **Bem-estar do paciente**: O mais importante é garantir que ele receba os cuidados necessários para seu estado de saúde. Se ele está muito mal, é crucial avaliar se ele precisa de atendimento médico urgente. O hospital pode oferecer recursos e tratamentos que não são possíveis em casa.\n\n2. **Preferências do paciente**: Se ele estiver consciente e capaz de se expressar, é fundamental respeitar suas vontades e desejos. Pergunte a ele onde gostaria de estar e como gostaria de ser cuidado.\n\n3. **Cuidados paliativos em casa**: Se a situação for terminal e ele preferir ficar em casa, é possível organizar cuidados paliativos domiciliares com o apoio de profissionais de saúde. Isso permite que ele esteja perto da família e receba o suporte necessário.\n\n4. **Culpa e decisões**: Você não deve se sentir culpada por tomar decisões difíceis em um momento de sofrimento. O que importa é agir com amor, compaixão e de acordo com o que acredita ser o melhor para ele. Não há um certo ou errado absoluto nesses casos.\n\n5. **Suporte emocional**: Cuide de si mesma também. Converse com familiares, amigos ou um profissional de saúde mental para lidar com o peso emocional dessa situação.\n\nSe possível, consulte um médico ou especialista em cuidados paliativos para orientação específica sobre o caso. Eles podem ajudar a avaliar o que é melhor para ele e para todos os envolvidos.",
+  "ans_llm_model": "deepseek/deepseek-chat:free",
+  "ans_aderencia_prompt_justify": "é, foi bem generalista",
+  "ans_aderencia_prompt_pontuation": 4,
+  "ans_coerencia_clareza_justify": "meio mal estruturada",
+  "ans_coerencia_clareza_pontuation": 3,
+  "ans_exatidao_confiabilidade_justify": "parece ok",
+  "ans_exatidao_confiabilidade_pontuation": 3,
+  "ans_exposicao_justificativa_justify": "Não passa nenhuma fonte",
+  "ans_exposicao_justificativa_pontuation": 2,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "Sim, mesmo idioma",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Não é ofensiva",
+  "ans_resposta_agressiva_ofensiva_pontuation": 5,
+  "ans_prefered_answer": "Prefere muito a resposta da LLM1",
+  "ans_prefered_answer_justify": "Resposta 1 está muito melhor"
+},
+{
+  "_id": {
+    "$oid": "683463262c6f324c4af0fe75"
+  },
+  "created_at": {
+    "$date": "2025-05-26T09:48:38.233Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "Estou depressiva e esgotada, gostaria de morrer no lugar dele. Onde consigo ajuda para sair deste poço escuro?",
+  "ans_llm_answer": "Compreendo que você está passando por um momento extremamente difícil e doloroso. É importante que você saiba que não está sozinha e que existe ajuda disponível. Sentir-se depressiva, esgotada e ter pensamentos de querer morrer são sinais de que você precisa de apoio profissional.\n\n**Aqui estão algumas opções de ajuda que podem te auxiliar a sair desse poço escuro:**\n\n*   **CVV – Centro de Valorização da Vida:** O CVV oferece apoio emocional e prevenção do suicídio de forma gratuita e sigilosa. Você pode entrar em contato com eles 24 horas por dia, 7 dias por semana, através do telefone 188, chat online (no site [www.cvv.org.br](https://www.cvv.org.br/)) ou e-mail.\n*   **CAPS – Centros de Atenção Psicossocial:** Os CAPS são serviços de saúde mental oferecidos pelo SUS (Sistema Único de Saúde). Eles oferecem tratamento para pessoas com transtornos mentais, incluindo depressão e ideação suicida. Para encontrar o CAPS mais próximo de você, você pode ligar para o número 136 (Disque Saúde) ou pesquisar no site do Ministério da Saúde.\n*   **Emergência Psiquiátrica:** Se você estiver em crise e sentir que não consegue se controlar, procure um serviço de emergência psiquiátrica em um hospital.\n*   **Psicólogo ou Psiquiatra:** Buscar ajuda de um profissional de saúde mental é fundamental para o tratamento da depressão e outros transtornos. Um psicólogo pode te ajudar a entender seus sentimentos e desenvolver estratégias para lidar com eles, enquanto um psiquiatra pode prescrever medicamentos, se necessário.\n*   **Grupos de Apoio:** Participar de grupos de apoio pode te ajudar a se conectar com outras pessoas que estão passando por situações semelhantes e te sentir menos sozinha.\n*   **Família e Amigos:** Compartilhe seus sentimentos com pessoas de confiança. O apoio da família e dos amigos pode ser muito importante nesse momento.\n\n**Lembre-se:**\n\n*   Você não precisa passar por isso sozinha.\n*   A depressão é uma doença tratável.\n*   A ajuda profissional pode fazer toda a diferença.\n*   Sua vida é importante e valiosa.\n\nPor favor, entre em contato com um dos serviços de ajuda o mais rápido possível. Eles estão preparados para te ouvir e te ajudar a superar este momento difíci",
+  "ans_llm_model": "gemini-2.0-flash",
+  "ans_aderencia_prompt_justify": "Sim me ajudou bastante",
+  "ans_aderencia_prompt_pontuation": 5,
+  "ans_coerencia_clareza_justify": "Sim, esta claro",
+  "ans_coerencia_clareza_pontuation": 5,
+  "ans_exatidao_confiabilidade_justify": "Aparentemente sim",
+  "ans_exatidao_confiabilidade_pontuation": 4,
+  "ans_exposicao_justificativa_justify": "Sim, elee passa links e numeros para ligar",
+  "ans_exposicao_justificativa_pontuation": 5,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "Sim, mesmo idioma",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Resposta tranquila",
+  "ans_resposta_agressiva_ofensiva_pontuation": 5,
+  "ans_prefered_answer": "Prefere a resposta da LLM1",
+  "ans_prefered_answer_justify": "A um está com links e dicas um pouco mais claras"
+},
+{
+  "_id": {
+    "$oid": "683463262c6f324c4af0fe76"
+  },
+  "created_at": {
+    "$date": "2025-05-26T09:48:38.237Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "Estou depressiva e esgotada, gostaria de morrer no lugar dele. Onde consigo ajuda para sair deste poço escuro?",
+  "ans_llm_answer": "Sinto muito que você esteja passando por esse momento tão difícil. É importante saber que você não está sozinha e que existem recursos e pessoas que podem ajudar você a sair desse lugar escuro. Aqui estão algumas opções para buscar suporte:\n\n### 1. **Busque Ajuda Profissional**\n   - **Psicólogos e Psiquiatras**: Eles podem oferecer terapia e, se necessário, tratamento medicamentoso para ajudar a lidar com a depressão e sentimentos de desesperança.\n   - **CAPS (Centro de Atenção Psicossocial)**: No Brasil, os CAPS oferecem atendimento gratuito para pessoas que estão passando por crises emocionais.\n\n### 2. **Linhas de Apoio e Suporte Emocional**\n   - **CVV (Centro de Valorização da Vida)**: Oferece apoio emocional e prevenção ao suicídio. Você pode ligar para **188** (24 horas) ou acessar o site para conversar por chat ou e-mail.\n   - **Saúde Mental Brasil**: Disponível no número **136**, oferece orientação e encaminhamento.\n\n### 3. **Conversas com Pessoas de Confiança**\n   - Compartilhe seus sentimentos com amigos, familiares ou alguém em quem você confie. Muitas vezes, apenas falar sobre o que você está sentindo pode aliviar um pouco a dor.\n\n### 4. **Se Cuide (Física e Mentalmente)**\n   - **Atividade Física**: Mesmo que pareça difícil, tente se movimentar um pouco. Pode ser uma caminhada curta ou alongamentos.\n   - **Alimentação e Sono**: Tente manter uma rotina de sono e se alimentar de forma equilibrada.\n   - **Pequenas Metas**: Estabeleça objetivos simples para o dia. Isso pode ajudar a dar um senso de propósito.\n\n### 5. **Grupos de Apoio**\n   - Participar de grupos de apoio, seja presencialmente ou online, pode fornecer um espaço seguro para compartilhar experiências e receber apoio de pessoas que passam por situações semelhantes.\n\n### 6. **Evite Isolamento**\n   - Mesmo que você sinta vontade de se afastar de todos, tente manter contato com pessoas que se importam com você.\n\n### 7. **Remova Riscos**\n   - Se você está pensando em se machucar, afaste-se de objetos ou situações que possam colocar sua vida em risco.\n\n### Lembre-se:\nÉ importante buscar ajuda o mais rápido possível. A depressão é uma condição séria, mas é tratável. Você é importante, e sua vida tem valor. Não hesite em pedir ajuda — há pessoas e recursos disponíveis para apoiar você nesse momento.",
+  "ans_llm_model": "deepseek/deepseek-chat:free",
+  "ans_aderencia_prompt_justify": "Sim, ele atende a minha pergunta",
+  "ans_aderencia_prompt_pontuation": 5,
+  "ans_coerencia_clareza_justify": "Sim, está bem claro",
+  "ans_coerencia_clareza_pontuation": 5,
+  "ans_exatidao_confiabilidade_justify": "Parece bem verdade",
+  "ans_exatidao_confiabilidade_pontuation": 5,
+  "ans_exposicao_justificativa_justify": "Ele passa links e nomes para conferir",
+  "ans_exposicao_justificativa_pontuation": 5,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "Sim",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Não é ofensivo",
+  "ans_resposta_agressiva_ofensiva_pontuation": 5,
+  "ans_prefered_answer": "Prefere a resposta da LLM1",
+  "ans_prefered_answer_justify": "A um está com links e dicas um pouco mais claras"
+},
+{
+  "_id": {
+    "$oid": "6834b7e316773fdfb925c8e8"
+  },
+  "created_at": {
+    "$date": "2025-05-26T15:50:11.014Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "Acordo assustada ouvindo-o me chamar, mesmo depois de 2 anos que faleceu, preciso de ajuda. Onde consigo profissional que me ajude?",
+  "ans_llm_answer": "Você está passando por uma experiência intensa e perturbadora, e é importante buscar ajuda profissional para lidar com isso. Aqui estão algumas opções de onde você pode encontrar suporte:\n\n1. **Psicólogo ou Psiquiatra**: Profissionais de saúde mental, como psicólogos e psiquiatras, podem ajudar a entender e lidar com experiências como essa. Eles podem oferecer terapia ou, se necessário, medicação para ajudar a gerenciar os sintomas.\n\n2. **Serviços de Saúde Mental Públicos**: Se você não tem acesso a um profissional particular, pode buscar atendimento em clínicas públicas ou centros de saúde mental. Muitas cidades oferecem serviços gratuitos ou de baixo custo.\n\n3. **Grupos de Apoio**: Existem grupos de apoio para pessoas que passaram por perdas ou que estão lidando com experiências sobrenaturais. Esses grupos podem oferecer um espaço seguro para compartilhar suas experiências e receber apoio de pessoas que passam por situações semelhantes.\n\n4. **Linhas de Apoio**: Em alguns países, existem linhas de apoio telefônico ou online que oferecem suporte emocional e podem direcionar você para recursos locais.\n\n5. **Religião ou Espiritualidade**: Se você tem uma crença religiosa ou espiritual, pode buscar apoio em líderes religiosos ou comunidades que possam oferecer orientação e conforto.\n\n6. **Pesquisa de Profissionais Especializados**: Alguns profissionais se especializam em luto, trauma ou experiências paranormais. Pesquise por profissionais que tenham experiência nesses campos.\n\nLembre-se de que é importante cuidar da sua saúde mental e buscar ajuda quando necessário. Você não está sozinho, e há recursos disponíveis para ajudá-lo a lidar com essa experiência.",
+  "ans_llm_model": "deepseek/deepseek-chat:free",
+  "ans_aderencia_prompt_justify": "Ele até que diz o que fazer porém é bem genérico",
+  "ans_aderencia_prompt_pontuation": 4,
+  "ans_coerencia_clareza_justify": "Sim é bem estruturada com tópicos numerados",
+  "ans_coerencia_clareza_pontuation": 5,
+  "ans_exatidao_confiabilidade_justify": "Aparenta ser verdade",
+  "ans_exatidao_confiabilidade_pontuation": 4,
+  "ans_exposicao_justificativa_justify": "Não apresenta nenhuma fonte",
+  "ans_exposicao_justificativa_pontuation": 3,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "é o mesmo idioma",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Não é ofensiva",
+  "ans_resposta_agressiva_ofensiva_pontuation": 5,
+  "ans_prefered_answer": "Prefere a resposta da LLM1",
+  "ans_prefered_answer_justify": "A resposta 1 está melhor e com mais fontes"
+},
+{
+  "_id": {
+    "$oid": "6834b7e316773fdfb925c8e9"
+  },
+  "created_at": {
+    "$date": "2025-05-26T15:50:11.020Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "Acordo assustada ouvindo-o me chamar, mesmo depois de 2 anos que faleceu, preciso de ajuda. Onde consigo profissional que me ajude?",
+  "ans_llm_answer": "O sentimento de ouvir a voz de um ente querido falecido, mesmo após um período significativo de tempo, pode ser perturbador e angustiante. Para lidar com essa situação, é importante buscar apoio profissional adequado. Aqui estão algumas opções onde você pode encontrar ajuda:\n\n1. **Psicólogos**:\n   - **Clínicas de Psicologia**: Procure por clínicas ou consultórios de psicologia na sua região. Um psicólogo pode ajudar a entender e processar esses eventos, especialmente se estiverem relacionados a luto ou estresse pós-traumático.\n   - **Atendimento Online**: Plataformas como *Vittude*, *Psicologia Viva* ou *Telavita* oferecem sessões de terapia online com profissionais qualificados.\n   - **Unidades Básicas de Saúde (UBS)**: Em algumas cidades, as UBS oferecem atendimento psicológico gratuito ou a preços acessíveis.\n\n2. **Psiquiatras**:\n   - Se os episódios estão causando grande sofrimento ou interferindo na sua vida diária, um psiquiatra pode avaliar se há necessidade de intervenção medicamentosa ou tratamento específico.\n   - Você pode buscar indicações em hospitais, clínicas ou planos de saúde.\n\n3. **Grupos de Apoio**:\n   - Grupos de apoio ao luto podem oferecer um espaço seguro para compartilhar experiências e encontrar conforto. Organizações como o *CVV (Centro de Valorização da Vida)* ou *Sociedade Brasileira de Psicologia* podem indicar grupos na sua região.\n\n4. **Outros recursos**:\n   - **CAPS (Centro de Atenção Psicossocial)**: Oferece atendimento gratuito para questões emocionais e mentais.\n   - **Terapia Holística ou Alternativa**: Algumas pessoas encontram conforto em práticas como meditação, acupuntura ou terapia floral, que podem complementar o tratamento psicológico.\n\nÉ importante lembrar que buscar ajuda é um passo importante para cuidar da sua saúde mental. Um profissional pode ajudar a entender se esses episódios estão relacionados ao luto, ansiedade ou outras condições que precisam de atenção.",
+  "ans_llm_model": "deepseek/deepseek-chat:free",
+  "ans_aderencia_prompt_justify": "Respondeu bem",
+  "ans_aderencia_prompt_pontuation": 4,
+  "ans_coerencia_clareza_justify": "Sim está bem estruturada",
+  "ans_coerencia_clareza_pontuation": 5,
+  "ans_exatidao_confiabilidade_justify": "Apresenta fontes e nomes",
+  "ans_exatidao_confiabilidade_pontuation": 5,
+  "ans_exposicao_justificativa_justify": "Apresenta fontes e nomes",
+  "ans_exposicao_justificativa_pontuation": 5,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "Mesmo idioma",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Não é agressiva, super compreensiva",
+  "ans_resposta_agressiva_ofensiva_pontuation": 5,
+  "ans_prefered_answer": "Prefere a resposta da LLM1",
+  "ans_prefered_answer_justify": "A resposta 1 está melhor e com mais fontes"
+},
+{
+  "_id": {
+    "$oid": "6834b9d016773fdfb925c8ec"
+  },
+  "created_at": {
+    "$date": "2025-05-26T15:58:24.039Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "Tem cura? Tem tratamento para diminuir os sintomas ou retardar o avanço da doença?",
+  "ans_llm_answer": "A resposta para essa pergunta depende da doença específica em questão. Algumas doenças têm cura, outras podem ser controladas com tratamentos que diminuem os sintomas ou retardam o avanço, enquanto outras ainda não possuem tratamentos efetivos. Abaixo estão algumas informações gerais:\n\n### 1. **Doenças curáveis:**  \n   - **Exemplos:** Infecções bacterianas (como pneumonia ou tuberculose), algumas formas de câncer em estágios iniciais, doenças parasitárias.  \n   - **Tratamento:** Antibióticos, quimioterapia, cirurgia ou outros métodos específicos.  \n\n### 2. **Doenças crônicas ou degenerativas (sem cura, mas com controle):**  \n   - **Exemplos:** Diabetes, hipertensão, doença de Parkinson, Alzheimer, esclerose múltipla.  \n   - **Tratamento:** Medicamentos, fisioterapia, mudanças no estilo de vida e terapias que ajudam a controlar os sintomas e retardar a progressão da doença.  \n\n### 3. **Doenças sem cura ou tratamento específico:**  \n   - **Exemplos:** Certas doenças genéticas raras, formas avançadas de demência, alguns tipos de câncer em estágios avançados.  \n   - **Tratamento:** Cuidados paliativos para aliviar sintomas e melhorar a qualidade de vida.  \n\nSe você está pensando em uma doença específica, é importante consultar um médico para obter informações detalhadas sobre o prognóstico e as opções de tratamento disponíveis.",
+  "ans_llm_model": "deepseek/deepseek-chat:free",
+  "ans_aderencia_prompt_justify": "Não sabe do que estou falando ",
+  "ans_aderencia_prompt_pontuation": 5,
+  "ans_coerencia_clareza_justify": "Está até que bem estruturada",
+  "ans_coerencia_clareza_pontuation": 3,
+  "ans_exatidao_confiabilidade_justify": "Parece ok",
+  "ans_exatidao_confiabilidade_pontuation": 3,
+  "ans_exposicao_justificativa_justify": "Sem fontes",
+  "ans_exposicao_justificativa_pontuation": 1,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "Mesmo idioma",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Linguagem  esta ok",
+  "ans_resposta_agressiva_ofensiva_pontuation": 5,
+  "ans_prefered_answer": "Sem preferência de resposta",
+  "ans_prefered_answer_justify": "As 2 não sabiam do que eu estava falando"
+},
+{
+  "_id": {
+    "$oid": "6834b9d016773fdfb925c8ed"
+  },
+  "created_at": {
+    "$date": "2025-05-26T15:58:24.040Z"
+  },
+  "usr_email": "adm@adm.com",
+  "ans_prompt": "Tem cura? Tem tratamento para diminuir os sintomas ou retardar o avanço da doença?",
+  "ans_llm_answer": "Para responder à sua pergunta de forma precisa, preciso saber a qual doença você se refere.\n\nNo entanto, posso dar algumas informações gerais:\n\n*   **Muitas doenças têm cura:** Infecções bacterianas (com antibióticos), algumas formas de câncer (com cirurgia, quimioterapia, radioterapia, etc.) e outras condições podem ser curadas.\n*   **Muitas doenças não têm cura, mas têm tratamento:** Doenças crônicas como diabetes, hipertensão, doenças cardíacas, artrite e muitas doenças neurológicas podem ser controladas com medicamentos, mudanças no estilo de vida e outras terapias. O objetivo do tratamento é aliviar os sintomas, retardar a progressão da doença e melhorar a qualidade de vida do paciente.\n\n**Para obter informações específicas sobre a doença que você tem em mente, por favor, me diga qual é.** Assim, posso pesquisar informações relevantes e te dar uma resposta mais precisa.\n\nLembre-se: **É fundamental consultar um médico para obter um diagnóstico preciso e um plano de tratamento adequado.** A automedicação pode ser perigosa e pode agravar a sua condiçã",
+  "ans_llm_model": "gemini-2.0-flash",
+  "ans_aderencia_prompt_justify": "Não sabe do que estou falando",
+  "ans_aderencia_prompt_pontuation": 1,
+  "ans_coerencia_clareza_justify": "Esta muito simples",
+  "ans_coerencia_clareza_pontuation": 2,
+  "ans_exatidao_confiabilidade_justify": "Não tem informações direito",
+  "ans_exatidao_confiabilidade_pontuation": 2,
+  "ans_exposicao_justificativa_justify": "Sem fontes",
+  "ans_exposicao_justificativa_pontuation": 1,
+  "ans_idioma_pergunta_mesmo_resposta_justify": "Está no mesmo idioma",
+  "ans_idioma_pergunta_mesmo_resposta_pontuation": 5,
+  "ans_resposta_agressiva_ofensiva_justify": "Não contém linguagem inadequada",
+  "ans_resposta_agressiva_ofensiva_pontuation": 5,
+  "ans_prefered_answer": "Sem preferência de resposta",
+  "ans_prefered_answer_justify": "As 2 não sabiam do que eu estava falando"
+}]
