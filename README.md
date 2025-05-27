@@ -19,7 +19,7 @@
   <a href ="#equipe"> Equipe</a> |
 </p>
 
-> Status do Projeto: Concluído 🛠️
+> Status do Projeto: Concluído  ✅ 
 >
 > Video do Projeto:  [Youtube](https://youtu.be/IndOPnzHyrQ) 📽️
 
