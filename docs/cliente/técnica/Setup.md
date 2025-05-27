@@ -30,6 +30,10 @@ git submodule update --init --recursive
 
 ## Inicializando a Aplicação
 
+#### - Inicialize o Banco de dados MongoDB no localhost: 
+
+#### - Coloque a base de dados vetorizada "/client" dentro da raíz do backend:
+
 #### Instale as dependências
 
 Após clonar o repositório e os submódulos, siga os passos abaixo para iniciar a aplicação:
