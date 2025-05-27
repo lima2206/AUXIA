@@ -19,9 +19,9 @@
   <a href ="#equipe"> Equipe</a> |
 </p>
 
-> Status do Projeto: Em andamento 🛠️
+> Status do Projeto: Concluído 🛠️
 >
-> Video do Projeto:  [Youtube](https://www.youtube.com/watch?v=YsBSjbzrdi0) 📽️
+> Video do Projeto:  [Youtube](https://youtu.be/IndOPnzHyrQ) 📽️
 
 ## 🏅 Desafio <a id="desafio"></a>
 
@@ -31,52 +31,54 @@ O desafio consiste em criar uma aplicação web de avaliação de respostas de L
 
 O AUXIA - Auxiliary AI Training, permitirá que os usuários enviem prompts para múltiplos modelos de IA, comparem suas respostas, avaliem cada uma segundo critérios objetivos, escolham a melhor resposta e justifiquem suas decisões. Esse processo garantirá um aprendizado por reforço eficiente, possibilitando o aprimoramento contínuo dos modelos utilizados através dos dados persistidos de cada avaliação.
 
+---
+
 ## 📋 Backlog do Produto <a id="backlog"></a>
 
 | Rank | Prioridade | User Story                                                                                                                                                                                                     | Story Points | Sprint | Requisito do Cliente | Status |
 | :--: | :--------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------: | :----: | :------------------: | :----: |
-|  -   |    Alta    | Como usuário, eu quero ter as respostas das duas LLMs, para poder avaliá-las em critérios.                                                                                                                     |     N/D      |   1    |         R03          |   🗑️   |
-|  1   |    Alta    | Como usuário, quero uma interface para inserir um prompt, para que eu possa enviá-lo às LLMs e obter suas respostas                                                                                            |      14      |   1    |         R02          |   ✅   |
-|  2   |    Alta    | Como usuário, eu quero enviar um prompt para dois modelos de IA simultaneamente, para que eu possa avaliar suas respostas posteriormente.                                                                      |      47      |   1    |       R01/R09        |   ✅   |
-|  3   |    Alta    | Como usuário, eu quero visualizar as respostas das LLMs de forma clara e acessível, para que eu possa analisá-las em critérios.                                                                                |      28      |   1    |         R03          |   ✅   |
-|  4   |    Alta    | Como usuário, eu quero uma interface para poder avaliar cada resposta individualmente através de critérios definidos, para que eu possa analisar a qualidade das respostas geradas                             |      22      |   1    |         R03          |   ✅   |
-|  5   |    Alta    | Como usuário, eu quero uma interface para poder escolher a melhor resposta entre as duas geradas pelas LLMs, para que o sistema registre minha decisão e justificativa.                                        |      29      |   1    |         R04          |   ✅   |
-|  6   |    Alta    | Como Administrador, eu quero que as avaliações dos usuários sobre as LLMs sejam armazenadas em um BD, para que possam ser utilizadas em processos de fine-tunning futuramente.                                 |      41      |   1    |         R05          |   ✅   |
-|  7   |    Alta    | Como usuário, eu quero ser alertado caso minha escolha entre LLM1 e LLM2 não esteja coerente com minha avaliação, para que eu possa revisar minha decisão antes de finalizar.                                  |      3       |   2    |         R04          |   ✅   |
-|  8   |    Alta    | Como usuário, eu quero que as respostas das LLMs sejam enriquecidas com informações relevantes da base de dados (vetorizada), para que sejam mais precisas                                                     |      5       |   2    |         R07          |   ✅   |
-|  9   |    Alta    | Como usuário, eu quero que a LLM utilize apenas o contexto recuperado para responder ao meu prompt, para que a resposta seja mais precisa e baseada em informações verificadas.                                |     N/D      |   2    |         R07          |   🗑️   |
-|  10  |    Alta    | Como Administrador, eu gostaria de ser o primeiro usuário do sistema, já devidamente pré inserido no banco de dados, para que possa acessar a aplicação.                                                       |      44      |   1    |         R06          |   ✅   |
-|  11  |   Média    | Como Administrador, eu quero cadastrar novos usuários na plataforma, para que somente pessoas autorizadas possam acessá-la.                                                                                    |     N/D      |   3    |         R06          |   -    |
-|  12  |   Média    | Como usuário, eu quero acessar a aplicação através de uma interface de login, para que somente usuários autorizados possam utilizar o sistema.                                                                 |     N/D      |   3    |         R06          |   -    |
-|  13  |   Média    | Como usuário autorizado, eu quero acessar o sistema através de um login, para utilizar a aplicação.                                                                                                            |     N/D      |   3    |         R06          |   -    |
-|  14  |   Média    | Como usuário autenticado, eu quero poder fazer o logout da aplicação de forma segura, para que meus dados não fiquem acessíveis a terceiros.                                                                   |     N/D      |   3    |         R06          |   -    |
-|  15  |   Média    | Como usuário, eu quero poder revisar minha escolha antes de submetê-la, para que eu tenha certeza de que minha decisão está correta.                                                                           |      2       |   2    |         R04          |   ✅   |
-|  16  |   Média    | Como Administrador, eu quero visualizar a lista de usuários cadastrados, para que eu possa gerenciar quem tem acesso ao sistema.                                                                               |     N/D      |   3    |         R06          |   -    |
-|  17  |   Média    | Como Administrador, eu quero redefinir a senha de um usuário, para que eu possa ajudá-lo caso ele não consiga acessar a conta.                                                                                 |     N/D      |   3    |         R06          |   -    |
-|  18  |   Média    | Como Administrador, eu quero excluir usuários do sistema, para que possa revogar o acesso de usuários a aplicação.                                                                                             |     N/D      |   3    |         R06          |   -    |
-|  19  |   Baixa    | Como usuário, eu quero ser informado com mensagens de erro caso ocorra demora excessiva no envio do prompt ou na resposta das LLMs, ou outros erros, para que eu possa entender o problema e tentar novamente. |      2       |   2    |         R03          |   ✅   |
-|  20  |   Baixa    | Como usuário, eu quero ser informado com mensagens de erro caso haja falha na obtenção das respostas, para que eu possa entender o problema e tentar novamente.                                                |     N/D      |   2    |         R03          |   🗑️   |
-|  21  |   Baixa    | Como usuário, eu quero poder receber mensagens claras sobre o status das avaliações, para ter certeza de que minha avaliação foi registrada corretamente.                                                      |      2       |   2    |         R03          |   ✅   |
-|  22  |   Baixa    | Como usuário, eu quero poder voltar para telas anteriores durante o processo de avaliação, para que eu possa corrigir informações antes de enviar a decisão final.                                             |      1       |   2    |       R03/R04        |   ✅   |
-|  23  |   Baixa    | Como usuário, eu não quero perder meu progresso de avaliação ao voltar para telas anteriores, para que eu possa visualizar o que escolhi e verificar se errei em alguma avaliação.                             |     N/D      |   2    |       R03/R04        |   🗑️   |
-|  24  |   Baixa    | Como usuário, eu quero editar meus dados pessoais, para que eu possa manter minhas informações atualizadas.                                                                                                    |     N/D      |   3    |         R06          |   -    |
+|   1  |    Alta    | Como usuário, quero uma interface para inserir um prompt, para que eu possa enviá-lo às LLMs e obter suas respostas                                                                                            |      14      |    1   |          R02         |    ✅   |
+|   2  |    Alta    | Como usuário, eu quero enviar um prompt para dois modelos de IA simultaneamente, para que eu possa avaliar suas respostas posteriormente.                                                                      |      47      |    1   |        R01/R09       |    ✅   |
+|   3  |    Alta    | Como usuário, eu quero visualizar as respostas das LLMs de forma clara e acessível, para que eu possa analisá-las em critérios.                                                                                |      28      |    1   |          R03         |    ✅   |
+|   4  |    Alta    | Como usuário, eu quero uma interface para poder avaliar cada resposta individualmente através de critérios definidos, para que eu possa analisar a qualidade das respostas geradas                             |      22      |    1   |          R03         |    ✅   |
+|   5  |    Alta    | Como usuário, eu quero uma interface para poder escolher a melhor resposta entre as duas geradas pelas LLMs, para que o sistema registre minha decisão e justificativa.                                        |      29      |    1   |          R04         |    ✅   |
+|   6  |    Alta    | Como Administrador, eu quero que as avaliações dos usuários sobre as LLMs sejam armazenadas em um BD, para que possam ser utilizadas em processos de fine-tunning futuramente.                                 |      41      |    1   |          R05         |    ✅   |
+|   7  |    Alta    | Como usuário, eu quero ser alertado caso minha escolha entre LLM1 e LLM2 não esteja coerente com minha avaliação, para que eu possa revisar minha decisão antes de finalizar.                                  |       3      |    2   |          R04         |    ✅   |
+|   8  |    Alta    | Como usuário, eu quero que as respostas das LLMs sejam enriquecidas com informações relevantes da base de dados (vetorizada), para que sejam mais precisas                                                     |       5      |    2   |          R07         |    ✅   |
+|  10  |    Alta    | Como Administrador, eu gostaria de ser o primeiro usuário do sistema, já devidamente pré inserido no banco de dados, para que possa acessar a aplicação.                                                       |      44      |    1   |          R06         |    ✅   |
+|  11  |    Média   | Como Administrador, eu quero cadastrar novos usuários na plataforma, para que somente pessoas autorizadas possam acessá-la.                                                                                    |      17      |    3   |          R06         |    ✅   |
+|  12  |    Média   | Como usuário, eu quero acessar a aplicação através de uma interface de login, para que somente usuários autorizados possam utilizar o sistema.                                                                 |      13      |    3   |          R06         |    ✅   |
+|  13  |    Média   | Como usuário autorizado, eu quero acessar o sistema através de um login, para utilizar a aplicação.                                                                                                            |      23      |    3   |          R06         |    ✅   |
+|  14  |    Média   | Como usuário autenticado, eu quero poder fazer o logout da aplicação de forma segura, para que meus dados não fiquem acessíveis a terceiros.                                                                   |      18      |    3   |          R06         |    ✅   |
+|  15  |    Média   | Como usuário, eu quero poder revisar minha escolha antes de submetê-la, para que eu tenha certeza de que minha decisão está correta.                                                                           |       2      |    2   |          R04         |    ✅   |
+|  16  |    Média   | Como Administrador, eu quero visualizar a lista de usuários cadastrados, para que eu possa gerenciar quem tem acesso ao sistema.                                                                               |      20      |    3   |          R06         |    ✅   |
+|  17  |    Média   | Como Administrador, eu quero redefinir a senha de um usuário, para que eu possa ajudá-lo caso ele não consiga acessar a conta.                                                                                 |      18      |    3   |          R06         |    ✅   |
+|  18  |    Média   | Como Administrador, eu quero excluir usuários do sistema, para que possa revogar o acesso de usuários a aplicação.                                                                                             |      13      |    3   |          R06         |    ✅   |
+|  19  |    Baixa   | Como usuário, eu quero ser informado com mensagens de erro caso ocorra demora excessiva no envio do prompt ou na resposta das LLMs, ou outros erros, para que eu possa entender o problema e tentar novamente. |       2      |    2   |          R03         |    ✅   |
+|  21  |    Baixa   | Como usuário, eu quero poder receber mensagens claras sobre o status das avaliações, para ter certeza de que minha avaliação foi registrada corretamente.                                                      |       2      |    2   |          R03         |    ✅   |
+|  22  |    Baixa   | Como usuário, eu quero poder voltar para telas anteriores durante o processo de avaliação, para que eu possa corrigir informações antes de enviar a decisão final.                                             |       1      |    2   |        R03/R04       |    ✅   |
+|  24  |    Baixa   | Como usuário, eu quero editar meus dados pessoais, para que eu possa manter minhas informações atualizadas.                                                                                                    |      16      |    3   |          R06         |    ✅   |
+
+---
 
 ## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
 
-- User Stories com **Critérios de Aceitação**
-- Subtarefas divididas **a partir das US**
-- Design no **Figma**
-- Modelagem do **Banco de Dados**
-- Diagrama de **Rotas**
-- Banco de Dados **Vetorizado** do Cliente
+* User Stories com **Critérios de Aceitação**
+* Subtarefas divididas **a partir das US**
+* Design no **Figma**
+* Modelagem do **Banco de Dados**
+* Diagrama de **Rotas**
+* Banco de Dados **Vetorizado** do Cliente
 
 ## 🏆 DoD - Definition of Done <a id="dod"></a>
 
-- Manual de Usuário
-- Manual da Aplicação
-- Documentação da API (Application Programming Interface)
-- Código completo
-- Vídeos de cada etapa de entrega
+* Manual de Usuário
+* Manual da Aplicação
+* Documentação da API (Application Programming Interface)
+* Código completo
+* Vídeos de cada etapa de entrega
+
+---
 
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
 
@@ -134,7 +136,11 @@ git submodule update --init --recursive
 
 **1° Adicione as variáveis no .env**
 
-**2° Instale e Inicie a aplicação:**
+**2° Inicialize o Banco de dados MongoDB no localhost:**
+
+**3° Coloque a base de dados vetorizada ./client dentro da raíz do backen:**
+
+**4° Instale e Inicie a aplicação:**
 
 **Opção A: Com Poetry**
 
