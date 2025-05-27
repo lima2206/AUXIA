@@ -1,6 +1,6 @@
 # 📋 Testes do Sistema com Respostas RLHF
 
-Este documento descreve os testes realizados com três conjuntos distintos de respostas JSON, utilizadas para avaliar o comportamento do sistema com diferentes abordagens de geração de respostas.
+Este documento descreve os testes realizados com dois conjuntos distintos de respostas JSON, utilizadas para avaliar o comportamento do sistema com diferentes abordagens de geração de respostas.
 
 ## 🧠 Perguntas Utilizadas nos Testes
 
@@ -24,9 +24,6 @@ Este documento descreve os testes realizados com três conjuntos distintos de re
 
 2. **Teste 2 — RLHF sem RAG**  
    Avaliações com respostas oriundas exclusivamente do modelo RLHF, sem uso de contexto externo.
-
-3. **Teste 3 — Respostas Aleatórias**  
-   Respostas simuladas ou fora de contexto, utilizadas como baseline para aferir robustez das avaliações.
 
 ---
 
@@ -1090,19 +1087,6 @@ Este documento descreve os testes realizados com três conjuntos distintos de re
       "ans_prefered_answer": "Sem preferência de resposta",
       "ans_prefered_answer_justify": "As 2 não sabiam do que eu estava falando"
     }
-  ]
-}
-```
-
-</details>
-
-<details>
-  <summary>🔍 JSON - Teste 3: Respostas Aleatórias</summary>
-
-```json
-{
-  "respostas": [
-
   ]
 }
 ```
