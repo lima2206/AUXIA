@@ -21,9 +21,9 @@
 
 > Status do Projeto: Concluído  ✅ 
 >
-> Relatório de Testes: [PDF]()
+> Relatório de Testes: [PDF]() 📊
 >
-> Pasta de Documentação: [Link](docs/cliente)
+> Pasta de Documentação: [Link](docs/cliente) 📄
 > 
 > Video do Projeto:  [Youtube](https://youtu.be/IndOPnzHyrQ) 📽️
 
