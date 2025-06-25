@@ -21,7 +21,7 @@
 
 > Status do Projeto: Concluído  ✅ 
 >
-> Relatório de Testes: [PDF]() 📊
+> Relatório de Testes: [PDF](docs/cliente/relatorio_avaliacoes.pdf) 📊
 >
 > Pasta de Documentação: [Link](docs/cliente) 📄
 > 
