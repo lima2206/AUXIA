@@ -26,6 +26,8 @@
 > Documentation Folder: [Link](docs/cliente) 📄
 >
 > Project Video:  [Youtube](https://youtu.be/IndOPnzHyrQ) 📽️
+>
+> Readme PT_BR: [README](README_PTBR.md)
 
 ## 🏅 Challenge <a id="challenge"></a>
 
